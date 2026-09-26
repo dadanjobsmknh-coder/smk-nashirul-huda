@@ -1,0 +1,18 @@
+:root {
+  --color-primary:#1269ad; --color-primary-dark:#002147; --color-primary-light:#eaf4fc;
+  --color-secondary:#f2ac36; --color-secondary-dark:#9b5d00; --color-accent-pplg:#0e86bd;
+  --color-accent-mplb:#c27608; --color-background:#f6f8fb; --color-surface:#fff;
+  --color-surface-alt:#eff5fa; --color-text-strong:#102033; --color-text:#24364b;
+  --color-muted:#66758a; --color-border:#d9e2ec; --color-success:#16845b;
+  --color-warning:#9b5d00; --color-danger:#b83242; --color-focus:#f2ac36;
+  --font-sans:"Plus Jakarta Sans",Inter,Arial,Helvetica,sans-serif;
+  --step--1:clamp(.875rem,.84rem + .16vw,.95rem); --step-0:clamp(1rem,.96rem + .19vw,1.125rem);
+  --step-1:clamp(1.2rem,1.09rem + .53vw,1.5rem); --step-2:clamp(1.44rem,1.23rem + 1.02vw,2rem);
+  --step-3:clamp(1.728rem,1.37rem + 1.73vw,2.75rem); --step-4:clamp(2.074rem,1.52rem + 2.68vw,3.65rem);
+  --space-1:.25rem; --space-2:.5rem; --space-3:.75rem; --space-4:1rem; --space-5:1.5rem;
+  --space-6:2rem; --space-7:3rem; --space-8:4rem; --space-9:5rem; --space-10:6rem;
+  --radius-sm:.375rem; --radius-md:.75rem; --radius-lg:1.25rem; --radius-pill:999px;
+  --shadow-sm:0 1px 2px rgb(0 33 71 / .07); --shadow-md:0 12px 30px rgb(0 33 71 / .12);
+  --container:75rem; --header-height:4.75rem; --transition:180ms ease;
+  --z-header:1000; --z-overlay:1100; --z-modal:1200;
+}

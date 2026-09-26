@@ -1,0 +1,1 @@
+export function initAccessibility(){document.querySelectorAll('a[target="_blank"]').forEach(a=>{if(!a.getAttribute('aria-label'))a.setAttribute('aria-label',`${a.textContent.trim()} (dibuka di tab baru)`);});}

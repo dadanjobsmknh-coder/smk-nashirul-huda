@@ -1,0 +1,4 @@
+import {getRoot} from './config.js';
+const cache=new Map();
+export async function loadJSON(path,{useCache=true}={}){const url=`${getRoot()}${path}`;if(useCache&&cache.has(url))return cache.get(url);const response=await fetch(url,{headers:{Accept:'application/json'}});if(!response.ok)throw new Error(`Data gagal dimuat (${response.status})`);const data=await response.json();if(useCache)cache.set(url,data);return data;}
+export async function withDataState({container,path,render}){const target=typeof container==='string'?document.querySelector(container):container;if(!target)return;target.setAttribute('aria-busy','true');try{const data=await loadJSON(path);target.innerHTML=render(data);target.removeAttribute('aria-busy');}catch(error){console.error(error);target.innerHTML='<div class="empty-state" role="status"><h3>Informasi belum tersedia</h3><p>Data belum dapat dimuat. Silakan coba kembali nanti.</p></div>';target.removeAttribute('aria-busy');}}
