@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "title": "Struktur Organisasi SMK Nashirul Huda Bojonggambir",
+    "academicYear": "2026/2027",
+    "source": "Dokumen pembagian tugas dan tugas tambahan Tahun Pelajaran 2026/2027",
+    "note": "Nama yang tidak konsisten atau belum cukup jelas pada dokumen sumber tidak ditampilkan sebagai data publik."
+  },
+  "nodes": [
+    {
+      "id": "yayasan",
+      "slug": "yayasan-nashirul-huda",
+      "parentId": null,
+      "level": 0,
+      "name": "[NAMA KETUA YAYASAN PERLU VERIFIKASI]",
+      "position": "Yayasan Nashirul Huda Bojonggambir",
+      "group": "Yayasan",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "[PERIODE BELUM TERSEDIA]",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Yayasan merupakan badan penyelenggara SMK Nashirul Huda Bojonggambir.",
+      "duties": [
+        "Menetapkan arah penyelenggaraan satuan pendidikan",
+        "Mendukung tata kelola dan pengembangan sekolah"
+      ],
+      "status": "publish",
+      "verificationStatus": "placeholder"
+    },
+    {
+      "id": "kepala-sekolah",
+      "slug": "annissya-astaria",
+      "parentId": "yayasan",
+      "level": 1,
+      "name": "Annissya Astaria, S.Pd., Gr.",
+      "position": "Kepala Sekolah",
+      "group": "Pimpinan",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Mulai 2024 berdasarkan KSP",
+      "photo": "assets/images/people/annisya-astaria.png",
+      "description": "Memimpin penyelenggaraan pendidikan, pengelolaan sekolah, dan penjaminan mutu satuan pendidikan.",
+      "duties": [
+        "Memimpin perencanaan dan pelaksanaan program sekolah",
+        "Mengoordinasikan pendidik dan tenaga kependidikan",
+        "Menjamin mutu layanan pendidikan"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "waka-kurikulum",
+      "slug": "ruhilah",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Ruhilah, S.Pd.I.",
+      "position": "Wakil Kepala Sekolah Urusan Kurikulum",
+      "group": "Wakil Kepala Sekolah",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mendukung pengelolaan kurikulum dan pelaksanaan pembelajaran.",
+      "duties": [
+        "Mengoordinasikan program kurikulum",
+        "Mendukung penyusunan jadwal dan perangkat pembelajaran",
+        "Memantau pelaksanaan kegiatan akademik"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "waka-kesiswaan",
+      "slug": "atep-muhamad-ikhsan",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Atep Muhamad Ikhsan, S.Pd.",
+      "position": "Wakil Kepala Sekolah Urusan Kesiswaan",
+      "group": "Wakil Kepala Sekolah",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mendukung pembinaan kesiswaan, organisasi, dan pengembangan karakter.",
+      "duties": [
+        "Mengoordinasikan program kesiswaan",
+        "Mendukung pembinaan organisasi siswa",
+        "Mengembangkan disiplin dan karakter siswa"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "waka-hubinmas",
+      "slug": "jejen-jaenul-hak",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Jejen Jaenul Hak, S.Pd.",
+      "position": "Wakil Kepala Sekolah Urusan Hubungan Industri dan Masyarakat",
+      "group": "Wakil Kepala Sekolah",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mendukung hubungan sekolah dengan masyarakat dan dunia kerja.",
+      "duties": [
+        "Mengoordinasikan hubungan industri",
+        "Mendukung kerja sama PKL",
+        "Mengembangkan komunikasi publik sekolah"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "kaprog-pplg",
+      "slug": "dadan-m-romdon-organisasi",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Dadan M. Romdon",
+      "position": "Kepala Program RPL/PPLG",
+      "group": "Ketua Program Keahlian",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/people/dadan-m-romdon.png",
+      "description": "Mengoordinasikan pengembangan dan pelaksanaan program keahlian PPLG.",
+      "duties": [
+        "Mengoordinasikan pembelajaran produktif PPLG",
+        "Mendukung pengelolaan praktik dan projek",
+        "Membangun penyelarasan kompetensi dengan dunia kerja"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "kaprog-mplb",
+      "slug": "linda-purnawati-organisasi",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Linda Purnawati, S.E.",
+      "position": "Kepala Program MPLB",
+      "group": "Ketua Program Keahlian",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mengoordinasikan pengembangan dan pelaksanaan program keahlian MPLB.",
+      "duties": [
+        "Mengoordinasikan pembelajaran produktif MPLB",
+        "Mendukung simulasi layanan bisnis",
+        "Membangun penyelarasan kompetensi dengan dunia kerja"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "kepala-lab",
+      "slug": "astri-susantri-organisasi",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Astri Susantri, S.Kom.",
+      "position": "Kepala Laboratorium",
+      "group": "Unit Pendukung",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mendukung pengelolaan laboratorium untuk kegiatan pembelajaran.",
+      "duties": [
+        "Mendukung penjadwalan penggunaan laboratorium",
+        "Mengelola inventaris dan kesiapan ruang praktik",
+        "Mendukung keselamatan dan ketertiban penggunaan fasilitas"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "kepala-perpustakaan",
+      "slug": "aa-mansur-organisasi",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Drs. AA Mansur",
+      "position": "Kepala Perpustakaan",
+      "group": "Unit Pendukung",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mendukung penyelenggaraan layanan perpustakaan dan literasi sekolah.",
+      "duties": [
+        "Mengelola layanan perpustakaan",
+        "Mendukung program literasi",
+        "Mengelola koleksi dan pelayanan pemustaka"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    },
+    {
+      "id": "kepala-tas",
+      "slug": "yana-rismayana-organisasi",
+      "parentId": "kepala-sekolah",
+      "level": 2,
+      "name": "Yana Rismayana, S.E.",
+      "position": "Kepala Tenaga Administrasi Sekolah",
+      "group": "Tenaga Administrasi",
+      "education": "[DATA BELUM TERSEDIA]",
+      "period": "Tahun Pelajaran 2026/2027",
+      "photo": "assets/images/placeholders/principal.svg",
+      "description": "Mengoordinasikan pelayanan administrasi sekolah.",
+      "duties": [
+        "Mengoordinasikan administrasi sekolah",
+        "Mendukung layanan dokumen dan persuratan",
+        "Mendukung ketertiban data administrasi"
+      ],
+      "status": "publish",
+      "verificationStatus": "verified"
+    }
+  ]
+}

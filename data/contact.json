@@ -1,0 +1,51 @@
+{
+  "school": "SMK Nashirul Huda Bojonggambir",
+  "legalName": "SMKS Nashirul Huda",
+  "npsn": "20268931",
+  "address": "Jl. Raya Bojonggambir depan Alfamart Bojonggambir, Kp. Cipalu Geleber RT 01/RW 01, Desa/Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+  "whatsapp": {
+    "display": "0851 7437 8582",
+    "number": "6285174378582",
+    "url": "https://wa.me/6285174378582"
+  },
+  "instagram": {
+    "display": "@smknashirulhudabjg",
+    "url": "https://www.instagram.com/smknashirulhudabjg/"
+  },
+  "email": {
+    "display": "[EMAIL RESMI BELUM DIVERIFIKASI]",
+    "url": ""
+  },
+  "map": {
+    "query": "SMK Nashirul Huda Bojonggambir",
+    "url": "https://www.google.com/maps/search/?api=1&query=SMK%20Nashirul%20Huda%20Bojonggambir",
+    "coordinates": null
+  },
+  "hours": {
+    "status": "placeholder",
+    "items": [
+      {
+        "day": "Senin - Sabtu",
+        "time": "[JAM LAYANAN BELUM DIVERIFIKASI]"
+      },
+      {
+        "day": "Minggu/Libur",
+        "time": "Konfirmasi melalui WhatsApp"
+      }
+    ]
+  },
+  "topics": [
+    "Informasi SPMB",
+    "Informasi program PPLG",
+    "Informasi program MPLB",
+    "Legalisir dokumen",
+    "Surat rekomendasi",
+    "Kerja sama industri/PKL",
+    "Informasi alumni dan tracer study",
+    "Informasi umum lainnya"
+  ],
+  "privacyNotice": "Formulir kontak hanya menyusun pesan WhatsApp pada perangkat pengguna. Website tidak menyimpan nama, nomor telepon, atau isi pesan.",
+  "lastUpdated": "2026-09-26",
+  "source": "Brosur SPMB 2026 dan data resmi sekolah",
+  "website": "https://smknashirulhuda.sch.id"
+}

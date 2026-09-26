@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "title": "FAQ Sekolah",
+    "description": "Pertanyaan yang sering diajukan tentang SMK Nashirul Huda Bojonggambir.",
+    "lastUpdated": "2026-09-26",
+    "source": "Data resmi website dan brosur SPMB 2026"
+  },
+  "categories": [
+    {
+      "id": "umum",
+      "label": "Umum"
+    },
+    {
+      "id": "program",
+      "label": "Program Keahlian"
+    },
+    {
+      "id": "pembelajaran",
+      "label": "Pembelajaran"
+    },
+    {
+      "id": "spmb",
+      "label": "SPMB"
+    },
+    {
+      "id": "layanan",
+      "label": "Layanan"
+    },
+    {
+      "id": "lulusan",
+      "label": "Lulusan dan Mitra"
+    },
+    {
+      "id": "kontak",
+      "label": "Kontak"
+    }
+  ],
+  "items": [
+    {
+      "id": "nama-sekolah",
+      "category": "umum",
+      "question": "Apa nama resmi sekolah?",
+      "answer": "Nama yang digunakan pada layanan publik adalah SMK Nashirul Huda Bojonggambir. Nama legal satuan pendidikan adalah SMKS Nashirul Huda dengan NPSN 20268931.",
+      "link": "profil/sejarah-identitas.html",
+      "linkLabel": "Lihat identitas sekolah"
+    },
+    {
+      "id": "lokasi-sekolah",
+      "category": "umum",
+      "question": "Di mana lokasi sekolah?",
+      "answer": "Sekolah beralamat di Jl. Raya Bojonggambir depan Alfamart Bojonggambir, Kp. Cipalu Geleber RT 01/RW 01, Desa/Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Lihat kontak dan lokasi"
+    },
+    {
+      "id": "kepala-sekolah",
+      "category": "umum",
+      "question": "Siapa kepala sekolah SMK Nashirul Huda?",
+      "answer": "Kepala sekolah adalah Annissya Astaria, S.Pd., Gr. berdasarkan data sekolah yang digunakan pada website.",
+      "link": "profil/sambutan-kepala-sekolah.html",
+      "linkLabel": "Baca sambutan kepala sekolah"
+    },
+    {
+      "id": "fasilitas",
+      "category": "umum",
+      "question": "Fasilitas apa saja yang tersedia?",
+      "answer": "Fasilitas yang diinformasikan mencakup ruang kelas, laboratorium komputer, ruang praktik siswa, perpustakaan, mushola, lapangan upacara dan olahraga, serta asrama putra dan putri. Status operasional, kapasitas, dan biaya asrama perlu dikonfirmasi kepada sekolah.",
+      "link": "profil/fasilitas/",
+      "linkLabel": "Lihat fasilitas"
+    },
+    {
+      "id": "organisasi-siswa",
+      "category": "umum",
+      "question": "Organisasi siswa apa saja yang tersedia?",
+      "answer": "Organisasi yang disebutkan meliputi MPK, OSIS, Dewan Ambalan Lajurda Lasatri, Panah Dharmawidjaya, serta Kader UKS. Data pengurus dan program kerja dapat diperbarui setelah diberikan secara resmi.",
+      "link": "pembelajaran/kegiatan/organisasi-siswa.html",
+      "linkLabel": "Lihat organisasi siswa"
+    },
+    {
+      "id": "program-tersedia",
+      "category": "program",
+      "question": "Program keahlian apa yang tersedia?",
+      "answer": "Sekolah menyediakan PPLG atau Pengembangan Perangkat Lunak dan Gim dengan konsentrasi Rekayasa Perangkat Lunak, serta MPLB atau Manajemen Perkantoran dan Layanan Bisnis dengan konsentrasi Manajemen Perkantoran.",
+      "link": "kompetensi-keahlian/",
+      "linkLabel": "Bandingkan program keahlian"
+    },
+    {
+      "id": "pplg-belajar",
+      "category": "program",
+      "question": "Apa yang dipelajari di PPLG?",
+      "answer": "PPLG mempelajari logika dan algoritma, pemrograman, basis data, pengembangan web dan aplikasi, desain produk digital, projek, serta kewirausahaan teknologi.",
+      "link": "kompetensi-keahlian/pplg.html",
+      "linkLabel": "Pelajari PPLG"
+    },
+    {
+      "id": "mplb-belajar",
+      "category": "program",
+      "question": "Apa yang dipelajari di MPLB?",
+      "answer": "MPLB mempelajari administrasi modern, komunikasi bisnis, pengarsipan, layanan pelanggan, teknologi perkantoran, pengelolaan dokumen dan rapat, serta kewirausahaan layanan.",
+      "link": "kompetensi-keahlian/mplb.html",
+      "linkLabel": "Pelajari MPLB"
+    },
+    {
+      "id": "memilih-program",
+      "category": "program",
+      "question": "Bagaimana memilih antara PPLG dan MPLB?",
+      "answer": "Pilih berdasarkan minat, cara belajar, dan rencana pengembangan diri. PPLG lebih berfokus pada perangkat lunak dan produk digital, sedangkan MPLB berfokus pada administrasi, komunikasi, dan layanan bisnis. Calon murid dapat berkonsultasi melalui WhatsApp sekolah.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Konsultasi dengan sekolah"
+    },
+    {
+      "id": "kurikulum",
+      "category": "pembelajaran",
+      "question": "Kurikulum apa yang digunakan?",
+      "answer": "Website menjelaskan implementasi Kurikulum Merdeka melalui intrakurikuler, kokurikuler, ekstrakurikuler, Praktik Kerja Lapangan, pembiasaan, dan Teaching Factory.",
+      "link": "pembelajaran/kurikulum.html",
+      "linkLabel": "Lihat kurikulum"
+    },
+    {
+      "id": "model-pembelajaran",
+      "category": "pembelajaran",
+      "question": "Model pembelajaran apa yang digunakan?",
+      "answer": "Model yang dijelaskan mencakup Project-Based Learning, Problem-Based Learning, Design Thinking-Based Learning, STEMpreneur atau Entrepreneurial Learning, serta Discovery dan Inquiry Learning.",
+      "link": "pembelajaran/kurikulum.html",
+      "linkLabel": "Lihat model pembelajaran"
+    },
+    {
+      "id": "jadwal-pelajaran",
+      "category": "pembelajaran",
+      "question": "Di mana saya dapat melihat jadwal pelajaran?",
+      "answer": "Halaman jadwal telah disiapkan untuk kelas X, XI, dan XII pada PPLG dan MPLB. Jadwal operasional masih menunggu dokumen resmi sekolah.",
+      "link": "pembelajaran/jadwal-pelajaran.html",
+      "linkLabel": "Buka jadwal pelajaran"
+    },
+    {
+      "id": "kalender-akademik",
+      "category": "pembelajaran",
+      "question": "Apakah kalender akademik tersedia?",
+      "answer": "Ya. Kalender akademik 2026/2027 tersedia untuk semester ganjil dan genap. Tanggal dapat berubah mengikuti kebijakan resmi sekolah dan Dinas Pendidikan.",
+      "link": "pembelajaran/kalender-akademik.html",
+      "linkLabel": "Buka kalender akademik"
+    },
+    {
+      "id": "pkl",
+      "category": "pembelajaran",
+      "question": "Apakah siswa mengikuti Praktik Kerja Lapangan?",
+      "answer": "PKL menjadi bagian pembelajaran dunia kerja. Informasi periode mengikuti kalender akademik dan penempatan resmi yang dikoordinasikan sekolah.",
+      "link": "pembelajaran/kegiatan/",
+      "linkLabel": "Lihat kegiatan tahunan"
+    },
+    {
+      "id": "spmb-dibuka",
+      "category": "spmb",
+      "question": "Apakah pendaftaran SPMB sedang dibuka?",
+      "answer": "Belum ada jadwal penerimaan baru yang terverifikasi. Brosur 2026/2027 tersedia sebagai arsip, dan jadwal daftar ulang 11 Juli 2026 telah berlalu. Hubungi admin untuk periode berikutnya.",
+      "link": "spmb/",
+      "linkLabel": "Lihat informasi SPMB"
+    },
+    {
+      "id": "cara-daftar",
+      "category": "spmb",
+      "question": "Bagaimana cara mendaftar berdasarkan brosur 2026?",
+      "answer": "Brosur 2026 mencantumkan format WhatsApp: DAFTAR [Nama] [Asal Sekolah] [Alamat], dikirim ke 0851 7437 8582. Konfirmasikan apakah format tersebut masih berlaku untuk periode terbaru.",
+      "link": "spmb/",
+      "linkLabel": "Lihat brosur dan alur SPMB"
+    },
+    {
+      "id": "brosur-spmb",
+      "category": "spmb",
+      "question": "Apakah brosur SPMB dapat diunduh?",
+      "answer": "Ya. Brosur resmi SPMB 2026 dapat dilihat, dibuka sebagai PDF, dan diunduh dari halaman SPMB.",
+      "link": "spmb/#brosur-spmb",
+      "linkLabel": "Lihat dan unduh brosur"
+    },
+    {
+      "id": "syarat-spmb",
+      "category": "spmb",
+      "question": "Apa saja persyaratan pendaftaran?",
+      "answer": "Website menyediakan checklist awal seperti ijazah atau surat keterangan lulus, Kartu Keluarga, akta kelahiran, dan pas foto. Jumlah salinan, ukuran foto, serta persyaratan final harus dikonfirmasi kepada panitia.",
+      "link": "spmb/",
+      "linkLabel": "Lihat checklist persyaratan"
+    },
+    {
+      "id": "biaya-spmb",
+      "category": "spmb",
+      "question": "Berapa biaya pendaftaran dan pendidikan?",
+      "answer": "Rincian biaya belum diverifikasi dan tidak ditampilkan secara fiktif. Jangan melakukan pembayaran sebelum menerima nominal, rekening, dan bukti pembayaran resmi dari sekolah.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Konfirmasi biaya"
+    },
+    {
+      "id": "asrama",
+      "category": "spmb",
+      "question": "Apakah tersedia asrama?",
+      "answer": "Asrama putra dan putri disebutkan dalam brosur sekolah. Kapasitas, biaya, peraturan, dan status operasional perlu dikonfirmasi langsung kepada sekolah.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Tanyakan informasi asrama"
+    },
+    {
+      "id": "legalisir",
+      "category": "layanan",
+      "question": "Bagaimana mengajukan legalisir dokumen?",
+      "answer": "Hubungi administrasi untuk memastikan syarat terbaru, siapkan dokumen asli, salinan, dan identitas pemohon, lalu serahkan berkas untuk pemeriksaan. Durasi, biaya, jam layanan, dan ketentuan perwakilan belum ditetapkan pada website.",
+      "link": "layanan/legalisir.html",
+      "linkLabel": "Lihat layanan legalisir"
+    },
+    {
+      "id": "rekomendasi",
+      "category": "layanan",
+      "question": "Bagaimana mengajukan surat rekomendasi?",
+      "answer": "Sampaikan tujuan penggunaan surat, identitas, serta dokumen pendukung kepada administrasi sekolah. Jenis rekomendasi, durasi, biaya, dan formulir harus dikonfirmasi terlebih dahulu.",
+      "link": "layanan/surat-rekomendasi.html",
+      "linkLabel": "Lihat surat rekomendasi"
+    },
+    {
+      "id": "form-online",
+      "category": "layanan",
+      "question": "Apakah formulir website menyimpan data pengguna?",
+      "answer": "Tidak. Formulir kontak dan formulir minat SPMB hanya menyusun pesan WhatsApp pada perangkat pengguna. Website tidak menyimpan nama, nomor, dokumen, atau isi pesan pada server maupun localStorage.",
+      "link": "kebijakan-privasi.html",
+      "linkLabel": "Baca kebijakan privasi"
+    },
+    {
+      "id": "tracer-study",
+      "category": "lulusan",
+      "question": "Apakah data tracer study tersedia?",
+      "answer": "Ya. Website menyediakan data cohort 2024/2025 dan 2025/2026, termasuk jumlah lulusan, responden, response rate, status lulusan, tabel perbandingan, dan infografik untuk cohort 2024/2025.",
+      "link": "lulusan/keterserapan-lulusan.html",
+      "linkLabel": "Lihat tracer study"
+    },
+    {
+      "id": "kategori-tumpang-tindih",
+      "category": "lulusan",
+      "question": "Mengapa total status tracer study melebihi jumlah responden?",
+      "answer": "Kategori dapat tumpang tindih, misalnya seorang alumni kuliah sambil bekerja. Oleh karena itu jumlah bekerja, melanjutkan pendidikan, berwirausaha, dan kategori lain tidak diperlakukan sebagai distribusi eksklusif yang harus berjumlah 100%.",
+      "link": "lulusan/keterserapan-lulusan.html",
+      "linkLabel": "Lihat catatan data"
+    },
+    {
+      "id": "mitra-industri",
+      "category": "lulusan",
+      "question": "Siapa mitra industri sekolah yang sudah ditampilkan?",
+      "answer": "PT BPR Cipatujah Jawa Barat Perseroda atau bank CiJ ditampilkan sebagai mitra PKL berdasarkan informasi MoU dari sekolah, berlaku sampai 2027.",
+      "link": "lulusan/industri-mitra.html",
+      "linkLabel": "Lihat industri mitra"
+    },
+    {
+      "id": "kontak-wa",
+      "category": "kontak",
+      "question": "Berapa nomor WhatsApp sekolah?",
+      "answer": "Nomor WhatsApp sekolah yang digunakan pada website dan brosur adalah 0851 7437 8582. Pastikan nomor tujuan sebelum mengirim dokumen atau melakukan pembayaran.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Buka halaman kontak"
+    },
+    {
+      "id": "instagram",
+      "category": "kontak",
+      "question": "Apa akun Instagram sekolah?",
+      "answer": "Akun Instagram yang dicantumkan adalah @smknashirulhudabjg.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Lihat kanal resmi"
+    },
+    {
+      "id": "email",
+      "category": "kontak",
+      "question": "Apa alamat email resmi sekolah?",
+      "answer": "Alamat email resmi belum diverifikasi, sehingga website tidak menampilkan alamat email buatan. Gunakan WhatsApp atau Instagram yang sudah tersedia.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Lihat kanal komunikasi"
+    },
+    {
+      "id": "koreksi-data",
+      "category": "kontak",
+      "question": "Bagaimana melaporkan data website yang perlu diperbaiki?",
+      "answer": "Kirimkan detail halaman, informasi yang perlu dikoreksi, dan sumber pendukung melalui WhatsApp sekolah. Permintaan koreksi akan lebih mudah diproses jika menyertakan bukti resmi.",
+      "link": "hubungi-kami/",
+      "linkLabel": "Kirim permintaan koreksi"
+    }
+  ]
+}

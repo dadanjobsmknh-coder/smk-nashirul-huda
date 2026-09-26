@@ -1,0 +1,44 @@
+{
+  "_note": "Contoh struktur data. Semua contoh berstatus draft dan bukan prestasi resmi.",
+  "school": {
+    "id": "prestasi-sekolah-contoh",
+    "slug": "judul-prestasi",
+    "achievement": "[NAMA PRESTASI]",
+    "year": "[TAHUN]",
+    "level": "[TINGKAT]",
+    "organizer": "[PENYELENGGARA]",
+    "description": "[DESKRIPSI]",
+    "gallery": [],
+    "status": "draft",
+    "verificationStatus": "placeholder",
+    "source": "school-admin"
+  },
+  "teacher": {
+    "id": "prestasi-guru-contoh",
+    "slug": "nama-prestasi",
+    "teacherName": "[NAMA GURU]",
+    "achievement": "[NAMA PRESTASI]",
+    "year": "[TAHUN]",
+    "level": "[TINGKAT]",
+    "organizer": "[PENYELENGGARA]",
+    "gallery": [],
+    "status": "draft",
+    "verificationStatus": "placeholder",
+    "source": "school-admin"
+  },
+  "student": {
+    "id": "prestasi-siswa-contoh",
+    "slug": "nama-lomba",
+    "studentName": "[NAMA SISWA]",
+    "class": "[KELAS]",
+    "competition": "[NAMA LOMBA]",
+    "rank": "[PERINGKAT]",
+    "organizer": "[PENYELENGGARA]",
+    "year": "[TAHUN]",
+    "level": "[TINGKAT]",
+    "gallery": [],
+    "status": "draft",
+    "verificationStatus": "placeholder",
+    "source": "school-admin"
+  }
+}

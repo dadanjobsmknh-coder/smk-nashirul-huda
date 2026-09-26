@@ -1,0 +1,139 @@
+{
+  "slug": "pplg",
+  "code": "PPLG",
+  "name": "Pengembangan Perangkat Lunak dan Gim",
+  "concentration": "Rekayasa Perangkat Lunak",
+  "theme": "technology",
+  "hero": {
+    "kicker": "Teknologi · Kreativitas · Solusi Digital",
+    "title": "Bangun ide menjadi perangkat lunak yang bermanfaat.",
+    "description": "Program PPLG mengembangkan logika, kemampuan pemrograman, perancangan pengalaman pengguna, kerja proyek, dan kewirausahaan digital.",
+    "image": "assets/images/programs/logo-pplg.png"
+  },
+  "intro": "PPLG mempersiapkan siswa memahami proses pengembangan produk digital dari identifikasi kebutuhan, perancangan, pemrograman, pengujian, dokumentasi, hingga presentasi produk.",
+  "reasons": [
+    {
+      "title": "Belajar Berbasis Proyek",
+      "description": "Kompetensi dikembangkan melalui karya aplikasi, web, mobile, dan gim sederhana."
+    },
+    {
+      "title": "Budaya Kerja Digital",
+      "description": "Pembelajaran mengenalkan kolaborasi, dokumentasi, version control, dan evaluasi produk."
+    },
+    {
+      "title": "Peluang Berkarya",
+      "description": "Keterampilan dapat dikembangkan untuk bekerja, melanjutkan pendidikan, atau berwirausaha digital."
+    }
+  ],
+  "competencies": [
+    "Logika algoritma dan pemecahan masalah",
+    "Pengembangan antarmuka web",
+    "Pemrograman berorientasi objek",
+    "Pengelolaan basis data",
+    "Pengembangan aplikasi web dan mobile",
+    "Dasar pengembangan gim",
+    "Pengujian dan debugging",
+    "Dokumentasi dan presentasi produk",
+    "Kolaborasi proyek dengan metode Agile"
+  ],
+  "curriculum": {
+    "X": [
+      "Dasar-Dasar PPLG",
+      "Informatika",
+      "Projek IPAS",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK",
+      "Sejarah",
+      "Seni Budaya",
+      "Bahasa Sunda",
+      "Matematika",
+      "Bahasa Inggris"
+    ],
+    "XI": [
+      "Konsentrasi Keahlian PPLG",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Cloud Computing/DevOps",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK"
+    ],
+    "XII": [
+      "Konsentrasi Keahlian PPLG",
+      "Praktik Kerja Lapangan",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Cloud Computing/DevOps"
+    ]
+  },
+  "tools": [
+    "HTML5 & CSS3",
+    "JavaScript",
+    "Basis data relasional",
+    "Git dan repositori kode",
+    "Editor kode",
+    "Perangkat desain UI/UX",
+    "Framework dan game engine sesuai kesiapan pembelajaran"
+  ],
+  "projects": [
+    {
+      "level": "Kelas X",
+      "title": "Static Company Profile Web App",
+      "description": "Penerapan dasar HTML, CSS, logika, dan desain pengalaman pengguna."
+    },
+    {
+      "level": "Kelas X",
+      "title": "Game Edukasi 2D Sederhana",
+      "description": "Penerapan logika pemrograman dasar dan aset grafis."
+    },
+    {
+      "level": "Kelas XI/XII",
+      "title": "Web POS & Inventory System",
+      "description": "Pengembangan sistem kasir dan inventaris dengan basis data."
+    },
+    {
+      "level": "Kelas XI/XII",
+      "title": "REST API & Cross-Platform Mobile Apps",
+      "description": "Pengembangan layanan data dan aplikasi lintas platform."
+    }
+  ],
+  "tefa": {
+    "name": "TEFA Software House",
+    "model": "Software House",
+    "services": [
+      "Web & Mobile App Development",
+      "UI/UX Product Design",
+      "Quality Assurance & Testing"
+    ]
+  },
+  "careers": [
+    "Junior Software Developer",
+    "Web Developer",
+    "Mobile Developer",
+    "Game Developer tingkat awal",
+    "UI/UX Designer tingkat awal",
+    "Quality Assurance/Software Tester",
+    "Technopreneur atau pekerja lepas digital"
+  ],
+  "goals": {
+    "short": [
+      "Integrasi etika profesi IT dan integritas dalam praktik coding",
+      "Penyelarasan pembelajaran PPLG dengan standar kompetensi kerja",
+      "Pembentukan unit kegiatan Student Technopreneur",
+      "Kerja sama PKL dan guru tamu dengan dunia kerja"
+    ],
+    "medium": [
+      "Peningkatan kelulusan uji kompetensi",
+      "Pengembangan Teaching Factory perangkat lunak dan gim",
+      "Publikasi produk aplikasi atau gim siswa",
+      "Pelatihan literasi komputer bagi masyarakat"
+    ],
+    "long": [
+      "Peningkatan keterserapan lulusan dalam bekerja, berwirausaha, atau melanjutkan pendidikan",
+      "Pengembangan peluang kerja freelance dan remote"
+    ]
+  },
+  "disclaimer": "Daftar teknologi dan prospek merupakan struktur pembelajaran berdasarkan KSP 2026/2027. Implementasi alat dapat menyesuaikan kesiapan sekolah dan perkembangan industri.",
+  "programLogo": "assets/images/programs/logo-pplg.png"
+}

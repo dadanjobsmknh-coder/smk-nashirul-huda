@@ -1,0 +1,92 @@
+{
+  "identity": {
+    "displayName": "SMK Nashirul Huda Bojonggambir",
+    "legalName": "SMKS NASHIRUL HUDA",
+    "npsn": "20268931",
+    "status": "Swasta",
+    "foundation": "Yayasan Nashirul Huda Bojonggambir",
+    "accreditation": "B",
+    "operationalDate": "13 Desember 2010",
+    "address": "Jl. Raya Bojonggambir, Kp. Cipalu Geleber, Desa Bojonggambir, Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+    "website": "https://smknashirulhuda.sch.id"
+  },
+  "summary": "SMK Nashirul Huda Bojonggambir merupakan satuan pendidikan kejuruan yang mengembangkan kompetensi pada bidang teknologi informasi serta manajemen perkantoran dan layanan bisnis. Sekolah menekankan pembelajaran vokasi, pembentukan karakter, budaya kekeluargaan, dan kesiapan menghadapi dunia kerja.",
+  "timeline": [
+    {
+      "year": "2009",
+      "title": "SK pendirian",
+      "description": "SK Pendirian Nomor 001/YPI-NH/XII/2009 diterbitkan pada 9 Desember 2009."
+    },
+    {
+      "year": "2010",
+      "title": "Izin operasional",
+      "description": "Izin operasional diterbitkan pada 13 Desember 2010 melalui SK Nomor 421.5/3568/DISDIK/2010."
+    },
+    {
+      "year": "2019",
+      "title": "Akreditasi B",
+      "description": "Akreditasi B ditetapkan melalui SK Nomor 1442/BAN-SM/SK/2019 tanggal 12 Desember 2019."
+    },
+    {
+      "year": "2024",
+      "title": "Kepemimpinan sekolah",
+      "description": "Data internal sekolah mencatat kepemimpinan Annissya Astaria, S.Pd., Gr."
+    },
+    {
+      "year": "2026",
+      "title": "Penguatan pendidikan vokasi",
+      "description": "KSP 2026/2027 mengembangkan pembelajaran projek, budaya kerja, kewirausahaan, dan hubungan dengan dunia kerja."
+    }
+  ],
+  "values": [
+    {
+      "title": "Bertaqwa",
+      "description": "Menumbuhkan landasan moral, etika, dan spiritualitas."
+    },
+    {
+      "title": "Berwawasan Wirausaha",
+      "description": "Mengembangkan kemandirian, kreativitas, inovasi, dan keberanian menciptakan peluang."
+    },
+    {
+      "title": "Kompeten",
+      "description": "Menguatkan keterampilan vokasional, kemampuan adaptasi, dan kesiapan kerja."
+    }
+  ],
+  "principalGreeting": {
+    "title": "Sambutan Kepala Sekolah",
+    "name": "Annissya Astaria, S.Pd., Gr.",
+    "position": "Kepala SMK Nashirul Huda Bojonggambir",
+    "content": [
+      "Assalamu’alaikum warahmatullahi wabarakatuh. Puji syukur ke hadirat Allah SWT atas kesempatan bagi SMK Nashirul Huda Bojonggambir untuk terus melayani pendidikan kejuruan yang dekat dengan masyarakat, tanggap terhadap perkembangan teknologi, dan berakar pada nilai keimanan serta akhlak mulia.",
+      "Kami berkomitmen menghadirkan pembelajaran yang tidak berhenti pada pengetahuan, tetapi memberi ruang kepada peserta didik untuk berkarya, berlatih memecahkan masalah, membangun disiplin, serta mengenal budaya kerja melalui projek, praktik, kegiatan organisasi, dan kemitraan.",
+      "Melalui Program Keahlian Pengembangan Perangkat Lunak dan Gim serta Manajemen Perkantoran dan Layanan Bisnis, kami mendorong peserta didik menjadi pribadi yang kompeten, adaptif, kreatif, dan memiliki keberanian untuk bekerja, melanjutkan pendidikan, maupun berwirausaha.",
+      "Kami mengajak orang tua, alumni, dunia kerja, pemerintah, dan masyarakat untuk tumbuh bersama sekolah. Semoga website ini menjadi ruang informasi yang terbuka, akurat, dan bermanfaat bagi seluruh keluarga besar SMK Nashirul Huda Bojonggambir."
+    ],
+    "closing": "Wassalamu’alaikum warahmatullahi wabarakatuh.",
+    "contentStatus": "draft-by-copilot-needs-principal-approval",
+    "updated": "2026-09-26",
+    "photo": "assets/images/people/annisya-astaria.png"
+  },
+  "history": {
+    "status": "researched-draft-needs-school-approval",
+    "paragraphs": [
+      "SMKS Nashirul Huda didirikan pada 9 Desember 2009 melalui SK Pendirian Nomor 001/YPI-NH/XII/2009. Sekolah kemudian memperoleh izin operasional pada 13 Desember 2010 melalui SK Nomor 421.5/3568/DISDIK/2010.",
+      "Sebagai SMK swasta di Kecamatan Bojonggambir, Kabupaten Tasikmalaya, sekolah hadir untuk memperluas akses pendidikan kejuruan bagi masyarakat sekitar. Kegiatan pembelajaran berlangsung pada pagi hari selama enam hari dalam sepekan.",
+      "Pada 12 Desember 2019, sekolah memperoleh akreditasi B berdasarkan SK Nomor 1442/BAN-SM/SK/2019. Perkembangan berikutnya diarahkan pada penguatan Kurikulum Merdeka, pembelajaran berbasis projek, budaya kerja, hubungan dengan dunia industri, serta kompetensi perangkat lunak dan layanan bisnis."
+    ],
+    "sources": [
+      {
+        "title": "Profil SMKS Nashirul Huda - DaftarSekolah.net",
+        "url": "https://daftarsekolah.net/sekolah/21844/smks-nashirul-huda"
+      },
+      {
+        "title": "Portal Data SMK Indonesia - SMKS Nashirul Huda",
+        "url": "https://smk.sch.id/sekolah/20268931"
+      },
+      {
+        "title": "Data Sekolah Kita - SMKS Nashirul Huda",
+        "url": "https://data.sekolah-kita.net/sekolah/smks+nashirul+huda_57480"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "academicYear": "2026/2027",
+  "items": [
+    {
+      "semester": "Ganjil",
+      "month": "Juli 2026",
+      "items": [
+        {
+          "date": "13–15 Juli 2026",
+          "title": "Hari Pertama Masuk Sekolah dan MPLS"
+        },
+        {
+          "date": "16–17 Juli 2026",
+          "title": "Asesmen Diagnostik dan Orientasi TEFA/Budaya Kerja"
+        },
+        {
+          "date": "20 Juli 2026",
+          "title": "Awal KBM Semester Ganjil"
+        }
+      ]
+    },
+    {
+      "semester": "Ganjil",
+      "month": "Agustus 2026",
+      "items": [
+        {
+          "date": "17 Agustus 2026",
+          "title": "Upacara Peringatan HUT ke-81 RI"
+        },
+        {
+          "date": "24–28 Agustus 2026",
+          "title": "Projek Kokurikuler 1"
+        }
+      ]
+    },
+    {
+      "semester": "Ganjil",
+      "month": "September 2026",
+      "items": [
+        {
+          "date": "21–25 September 2026",
+          "title": "Asesmen Sumatif Tengah Semester Ganjil"
+        }
+      ]
+    },
+    {
+      "semester": "Ganjil",
+      "month": "Oktober 2026",
+      "items": [
+        {
+          "date": "5–9 Oktober 2026",
+          "title": "Review Projek DKK dan KK bersama industri pasangan"
+        },
+        {
+          "date": "28 Oktober 2026",
+          "title": "Peringatan Hari Sumpah Pemuda"
+        }
+      ]
+    },
+    {
+      "semester": "Ganjil",
+      "month": "November 2026",
+      "items": [
+        {
+          "date": "23–27 November 2026",
+          "title": "Bimbingan Portofolio dan Pemantapan Produk TEFA"
+        }
+      ]
+    },
+    {
+      "semester": "Ganjil",
+      "month": "Desember 2026",
+      "items": [
+        {
+          "date": "1–11 Desember 2026",
+          "title": "Asesmen Sumatif Akhir Semester Ganjil"
+        },
+        {
+          "date": "18 Desember 2026",
+          "title": "Pembagian Rapor Semester Ganjil"
+        },
+        {
+          "date": "21 Desember 2026–2 Januari 2027",
+          "title": "Libur Semester Ganjil"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "Januari 2027",
+      "items": [
+        {
+          "date": "4 Januari 2027",
+          "title": "Hari Pertama KBM Semester Genap"
+        },
+        {
+          "date": "4 Januari–25 Juni 2027",
+          "title": "Praktik Kerja Lapangan Periode Gelombang 1 Kelas XII"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "Februari 2027",
+      "items": [
+        {
+          "date": "15–19 Februari 2027",
+          "title": "Projek Kokurikuler 2"
+        },
+        {
+          "date": "22–26 Februari 2027",
+          "title": "Pra-Uji Kompetensi Keahlian Kelas XII"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "Maret 2027",
+      "items": [
+        {
+          "date": "8–12 Maret 2027",
+          "title": "Asesmen Sumatif Tengah Semester Genap"
+        },
+        {
+          "date": "15–26 Maret 2027",
+          "title": "Uji Kompetensi Keahlian"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "April 2027",
+      "items": [
+        {
+          "date": "5–16 April 2027",
+          "title": "Asesmen Sumatif Akhir Jenjang Kelas XII"
+        },
+        {
+          "date": "19–23 April 2027",
+          "title": "Verifikasi Portofolio Kelulusan"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "Mei 2027",
+      "items": [
+        {
+          "date": "3 Mei 2027",
+          "title": "Pengumuman Kelulusan Kelas XII"
+        },
+        {
+          "date": "17–28 Mei 2027",
+          "title": "Pameran Karya TEFA dan Job Fair Sekolah"
+        }
+      ]
+    },
+    {
+      "semester": "Genap",
+      "month": "Juni 2027",
+      "items": [
+        {
+          "date": "7–18 Juni 2027",
+          "title": "Asesmen Sumatif Akhir Tahun Kelas X dan XI"
+        },
+        {
+          "date": "25 Juni 2027",
+          "title": "Pembagian Rapor Semester Genap/Kenaikan Kelas"
+        },
+        {
+          "date": "28 Juni–16 Juli 2027",
+          "title": "Libur Akhir Tahun Ajaran"
+        }
+      ]
+    }
+  ],
+  "source": "KSP SMK Nashirul Huda Tahun Pelajaran 2026/2027",
+  "note": "Tanggal dapat berubah mengikuti kebijakan resmi sekolah dan Dinas Pendidikan."
+}

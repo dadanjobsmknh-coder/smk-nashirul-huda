@@ -1,0 +1,496 @@
+[
+  {
+    "id": "guru-1",
+    "slug": "ruhilah",
+    "name": "Ruhilah, S.Pd.I.",
+    "position": "Wakil Kepala Sekolah Urusan Kurikulum",
+    "subject": "Pendidikan Agama Islam",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wakil kepala sekolah urusan kurikulum",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Ruhilah, S.Pd.I. tercatat sebagai Wakil Kepala Sekolah Urusan Kurikulum. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Agama Islam. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-2",
+    "slug": "dede-uniati",
+    "name": "Dede Uniati, S.Ag.",
+    "position": "Guru",
+    "subject": "Bahasa Sunda",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Dede Uniati, S.Ag. tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah Bahasa Sunda. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-3",
+    "slug": "atep-muhamad-ikhsan",
+    "name": "Atep Muhamad Ikhsan, S.Pd.",
+    "position": "Wakil Kepala Sekolah Urusan Kesiswaan",
+    "subject": "Pendidikan Pancasila dan Desain Grafis",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wakil kepala sekolah urusan kesiswaan",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Atep Muhamad Ikhsan, S.Pd. tercatat sebagai Wakil Kepala Sekolah Urusan Kesiswaan. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Pancasila dan Desain Grafis. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-4",
+    "slug": "tina-soraya",
+    "name": "Tina Soraya, S.E.",
+    "position": "Guru MPLB",
+    "subject": "Pengelolaan Sarpras, Rapat, Arsip, dan Ekonomi Bisnis",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru mplb",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Tina Soraya, S.E. tercatat sebagai Guru MPLB. Fokus tugas yang ditampilkan saat ini adalah Pengelolaan Sarpras, Rapat, Arsip, dan Ekonomi Bisnis. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-5",
+    "slug": "linda-purnawati",
+    "name": "Linda Purnawati, S.E.",
+    "position": "Kepala Program MPLB",
+    "subject": "Pengelolaan SDM, Keuangan, dan PKK",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas kepala program mplb",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Linda Purnawati, S.E. tercatat sebagai Kepala Program MPLB. Fokus tugas yang ditampilkan saat ini adalah Pengelolaan SDM, Keuangan, dan PKK. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-6",
+    "slug": "a-nur-hidayat",
+    "name": "A. Nur Hidayat",
+    "position": "Guru",
+    "subject": "PAI Khas",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "A. Nur Hidayat tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-7",
+    "slug": "a-tatang-solihin",
+    "name": "A. Tatang Solihin",
+    "position": "Guru",
+    "subject": "PAI Khas",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "A. Tatang Solihin tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-8",
+    "slug": "dadan-m-romdon",
+    "name": "Dadan M. Romdon",
+    "position": "Kepala Program RPL",
+    "subject": "Basis Data, Pemrograman Web, dan Informatika",
+    "type": "guru",
+    "photo": "assets/images/people/dadan-m-romdon.png",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas kepala program rpl",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Dadan M. Romdon tercatat sebagai Kepala Program RPL. Fokus tugas yang ditampilkan saat ini adalah Basis Data, Pemrograman Web, dan Informatika. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Pendidikan, pengalaman, prestasi, dan tahun mulai bertugas masih perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "official-photo-supplied"
+  },
+  {
+    "id": "guru-9",
+    "slug": "yulis-yuliasih",
+    "name": "Yulis Yuliasih, S.T.",
+    "position": "Guru PPLG",
+    "subject": "Dasar Kejuruan, Basis Data, dan Pemrograman Bergerak",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru pplg",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Yulis Yuliasih, S.T. tercatat sebagai Guru PPLG. Fokus tugas yang ditampilkan saat ini adalah Dasar Kejuruan, Basis Data, dan Pemrograman Bergerak. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-10",
+    "slug": "deni-nuryana",
+    "name": "Deni Nuryana, S.Pd.",
+    "position": "Guru",
+    "subject": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Deni Nuryana, S.Pd. tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Jasmani, Olahraga, dan Kesehatan. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-11",
+    "slug": "anisa",
+    "name": "Anisa, S.Pd.",
+    "position": "Wali Kelas X RPL",
+    "subject": "Bahasa Inggris",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wali kelas x rpl",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Anisa, S.Pd. tercatat sebagai Wali Kelas X RPL. Fokus tugas yang ditampilkan saat ini adalah Bahasa Inggris. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-12",
+    "slug": "astri-susantri",
+    "name": "Astri Susantri, S.Kom.",
+    "position": "Kepala Laboratorium",
+    "subject": "Pemrograman Teks, Grafis, Objek, Informatika, dan PKK",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas kepala laboratorium",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Astri Susantri, S.Kom. tercatat sebagai Kepala Laboratorium. Fokus tugas yang ditampilkan saat ini adalah Pemrograman Teks, Grafis, Objek, Informatika, dan PKK. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-13",
+    "slug": "neng-dalim-msn",
+    "name": "Neng Dalim M. S. N., S.Ak.",
+    "position": "Guru MPLB dan Pembina Pramuka",
+    "subject": "Dasar Kejuruan, Teknologi Kantor, Humas, dan Administrasi Umum",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru mplb dan pembina pramuka",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Neng Dalim M. S. N., S.Ak. tercatat sebagai Guru MPLB dan Pembina Pramuka. Fokus tugas yang ditampilkan saat ini adalah Dasar Kejuruan, Teknologi Kantor, Humas, dan Administrasi Umum. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-14",
+    "slug": "pitri-nurwasilah",
+    "name": "Pitri Nurwasilah",
+    "position": "Guru dan Anggota TAS",
+    "subject": "PKK dan Seni Budaya",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru dan anggota tas",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Pitri Nurwasilah tercatat sebagai Guru dan Anggota TAS. Fokus tugas yang ditampilkan saat ini adalah PKK dan Seni Budaya. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-15",
+    "slug": "uli-khoerunnisa",
+    "name": "Uli Khoerunnisa",
+    "position": "Wali Kelas X MPLB",
+    "subject": "Matematika",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wali kelas x mplb",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Uli Khoerunnisa tercatat sebagai Wali Kelas X MPLB. Fokus tugas yang ditampilkan saat ini adalah Matematika. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-16",
+    "slug": "rissa-sonia",
+    "name": "Rissa Sonia, S.Pd.",
+    "position": "Wali Kelas XII RPL",
+    "subject": "Bahasa Indonesia",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wali kelas xii rpl",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Rissa Sonia, S.Pd. tercatat sebagai Wali Kelas XII RPL. Fokus tugas yang ditampilkan saat ini adalah Bahasa Indonesia. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-17",
+    "slug": "siti-sopiah",
+    "name": "Siti Sopiah",
+    "position": "Guru",
+    "subject": "PAI Khas",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas guru",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Siti Sopiah tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-18",
+    "slug": "jejen-jaenul-hak",
+    "name": "Jejen Jaenul Hak, S.Pd.",
+    "position": "Wakil Kepala Sekolah Urusan Hubungan Industri dan Masyarakat",
+    "subject": "PAI dan Sejarah",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wakil kepala sekolah urusan hubungan industri dan masyarakat",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Jejen Jaenul Hak, S.Pd. tercatat sebagai Wakil Kepala Sekolah Urusan Hubungan Industri dan Masyarakat. Fokus tugas yang ditampilkan saat ini adalah PAI dan Sejarah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  },
+  {
+    "id": "guru-19",
+    "slug": "silvi-indriani",
+    "name": "Silvi Indriani, S.Pd.",
+    "position": "Wali Kelas XI MPLB",
+    "subject": "Bahasa Inggris Lanjutan dan IPAS",
+    "type": "guru",
+    "photo": "assets/images/placeholders/principal.svg",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas wali kelas xi mplb",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "description": "Silvi Indriani, S.Pd. tercatat sebagai Wali Kelas XI MPLB. Fokus tugas yang ditampilkan saat ini adalah Bahasa Inggris Lanjutan dan IPAS. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "social": {},
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait"
+  }
+]

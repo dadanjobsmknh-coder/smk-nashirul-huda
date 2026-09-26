@@ -1,0 +1,34 @@
+{
+  "_note": "Contoh pengisian, bukan data resmi.",
+  "summary": {
+    "academicYear": "2025/2026",
+    "respondents": "[JUMLAH RESPONDEN]",
+    "totalGraduates": "[JUMLAH LULUSAN]",
+    "responseRate": "[PERSENTASE RESPONS]",
+    "verificationStatus": "draft"
+  },
+  "category": {
+    "id": "bekerja",
+    "label": "Bekerja",
+    "value": "[PERSENTASE]",
+    "unit": "persen",
+    "description": "[KETERANGAN]"
+  },
+  "galleryItem": {
+    "image": "assets/images/graduates/tracer-study.jpg",
+    "alt": "Visual hasil tracer study",
+    "caption": "[CAPTION]"
+  },
+  "partner": {
+    "id": "slug-mitra",
+    "name": "[NAMA MITRA]",
+    "field": "[BIDANG]",
+    "website": "[URL]",
+    "address": "[ALAMAT]",
+    "description": "[DESKRIPSI KERJA SAMA]",
+    "logo": "assets/images/partners/logo.png",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "evidence": "[REFERENSI MOU]"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "phase": "14 - Performance",
+  "generated": "2026-09-26",
+  "previewConversions": [
+    {
+      "source": "assets/images/spmb/brosur-2026-page-1.png",
+      "sourceBytes": 1522583,
+      "output": "assets/images/spmb/brosur-2026-page-1.webp",
+      "outputBytes": 254524,
+      "savingPercent": 83.3
+    },
+    {
+      "source": "assets/images/spmb/brosur-2026-page-2.png",
+      "sourceBytes": 1967554,
+      "output": "assets/images/spmb/brosur-2026-page-2.webp",
+      "outputBytes": 306142,
+      "savingPercent": 84.4
+    }
+  ],
+  "previewBytesBefore": 3490137,
+  "previewBytesAfter": 560666,
+  "previewSavingPercent": 83.9,
+  "implemented": [
+    "WebP brochure previews",
+    "global lazy loading and async image decode",
+    "resource priority hints",
+    "service worker and offline fallback",
+    "runtime cache strategy",
+    "content-visibility for below-fold sections",
+    "hosting cache headers for Vercel and Netlify",
+    "relative PWA manifest",
+    "automated performance audit"
+  ],
+  "notes": [
+    "The 9.3 MB brochure PDF remains downloadable and is intentionally excluded from automatic service-worker caching.",
+    "The PDF viewer only loads when the user opens the details element in the SPMB page.",
+    "Real Lighthouse scores depend on the production host, network, and final domain."
+  ]
+}

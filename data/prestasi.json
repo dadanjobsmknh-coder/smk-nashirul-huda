@@ -1,0 +1,122 @@
+{
+  "meta": {
+    "source": "Informasi langsung dari Dadan Muhamad Romdon pada 26 September 2026",
+    "lastUpdated": "2026-09-26",
+    "note": "Data capaian berasal dari informasi langsung pengguna. Kolom tanggal dan lokasi ditampilkan; tanggal lengkap belum disampaikan. Dokumentasi sementara dihapus dari halaman prestasi.",
+    "evidenceStatus": "not-published"
+  },
+  "school": [
+    {
+      "id": "prestasi-sekolah-terbaik-2025",
+      "slug": "juara-1-sekolah-terbaik-2025",
+      "achievement": "Juara 1 Sekolah Terbaik",
+      "rank": "1",
+      "year": "2025",
+      "level": "Kecamatan",
+      "organizer": "Kecamatan Bojonggambir",
+      "description": "SMK Nashirul Huda Bojonggambir memperoleh peringkat pertama dalam capaian Sekolah Terbaik tingkat Kecamatan pada 2025.",
+      "gallery": [],
+      "status": "publish",
+      "verificationStatus": "verified",
+      "recordStatus": "reported-by-school-contact",
+      "evidenceStatus": "not-published",
+      "source": "Informasi langsung pengguna",
+      "date": "Tahun 2025 (tanggal lengkap belum dicatat)",
+      "location": "Kecamatan Bojonggambir"
+    },
+    {
+      "id": "prestasi-film-piala-gubernur-2022",
+      "slug": "juara-2-sinematografi-piala-gubernur-2022",
+      "achievement": "Juara 2 Sinematografi Piala Gubernur Pelajar Juara",
+      "rank": 2,
+      "year": 2022,
+      "level": "Provinsi",
+      "organizer": "Piala Gubernur Pelajar Juara Jawa Barat",
+      "description": "Film sinematografi SMK Nashirul Huda meraih Juara 2 pada Piala Gubernur Pelajar Juara 2022 berdasarkan informasi langsung pengelola sekolah.",
+      "gallery": [],
+      "status": "publish",
+      "verificationStatus": "verified",
+      "recordStatus": "reported-by-school-contact",
+      "evidenceStatus": "youtube-publication",
+      "source": "Informasi langsung pengguna dan video YouTube sekolah",
+      "date": "Tahun 2022 (tanggal lengkap belum dicatat)",
+      "location": "Jawa Barat",
+      "video": "https://www.youtube.com/watch?v=96B80NtIQEo&t=135s"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "prestasi-guru-koding-2020",
+      "slug": "juara-1-koding-dadan-m-romdon-2020",
+      "teacherName": "Dadan M. Romdon",
+      "participantName": "Dadan M. Romdon",
+      "achievement": "Juara 1 Koding",
+      "rank": "1",
+      "year": "2020",
+      "level": "Kecamatan",
+      "organizer": "MUI",
+      "description": "Dadan M. Romdon meraih peringkat pertama pada kegiatan koding tingkat Kecamatan pada 2020 yang diselenggarakan oleh MUI.",
+      "gallery": [],
+      "status": "publish",
+      "verificationStatus": "verified",
+      "recordStatus": "reported-by-school-contact",
+      "evidenceStatus": "not-published",
+      "source": "Informasi langsung pengguna",
+      "date": "Tahun 2020 (tanggal lengkap belum dicatat)",
+      "location": "Kecamatan Bojonggambir"
+    }
+  ],
+  "students": [
+    {
+      "id": "prestasi-siswa-kemah-tangguh-2025",
+      "slug": "juara-umum-kemah-tangguh-2025",
+      "studentName": "Yohanes Dedi dan Dudek Abdulah",
+      "participants": [
+        "Yohanes Dedi",
+        "Dudek Abdulah"
+      ],
+      "class": "XI RPL",
+      "competition": "Juara Umum Kemah Tangguh",
+      "achievement": "Juara Umum Kemah Tangguh",
+      "rank": "1",
+      "year": "2025",
+      "level": "Kecamatan",
+      "organizer": "Kwarran Bojonggambir",
+      "description": "Yohanes Dedi dan Dudek Abdulah dari kelas XI RPL meraih juara umum Kemah Tangguh tingkat Kecamatan pada 2025 yang diselenggarakan oleh Kwarran Bojonggambir.",
+      "gallery": [],
+      "status": "publish",
+      "verificationStatus": "verified",
+      "recordStatus": "reported-by-school-contact",
+      "evidenceStatus": "not-published",
+      "source": "Informasi langsung pengguna",
+      "date": "Tahun 2025 (tanggal lengkap belum dicatat)",
+      "location": "Kecamatan Bojonggambir"
+    },
+    {
+      "id": "prestasi-siswa-tumpeng-2024",
+      "slug": "juara-umum-tumpeng-2024",
+      "studentName": "Astir, Anisa, dan Sopiah",
+      "participants": [
+        "Astir",
+        "Anisa",
+        "Sopiah"
+      ],
+      "class": "XII RPL",
+      "competition": "Juara Umum Tumpeng",
+      "achievement": "Juara Umum Tumpeng",
+      "rank": "1",
+      "year": "2024",
+      "level": "Kecamatan",
+      "organizer": "Kwarran Bojonggambir",
+      "description": "Astir, Anisa, dan Sopiah dari kelas XII RPL meraih juara umum Tumpeng tingkat Kecamatan pada 2024 yang diselenggarakan oleh Kwarran Bojonggambir.",
+      "gallery": [],
+      "status": "publish",
+      "verificationStatus": "verified",
+      "recordStatus": "reported-by-school-contact",
+      "evidenceStatus": "not-published",
+      "source": "Informasi langsung pengguna",
+      "date": "Tahun 2024 (tanggal lengkap belum dicatat)",
+      "location": "Kecamatan Bojonggambir"
+    }
+  ]
+}

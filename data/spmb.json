@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "title": "Sistem Penerimaan Murid Baru",
+    "abbr": "SPMB",
+    "schoolYear": "2026/2027",
+    "status": "archive-needs-update",
+    "statusLabel": "Informasi 2026/2027 telah berlalu",
+    "lastUpdated": "2026-09-26",
+    "notice": "Brosur resmi SPMB 2026/2027 tersedia untuk dibaca dan diunduh. Jadwal daftar ulang Sabtu, 11 Juli 2026 pukul 08.00 WIB telah berlalu, sehingga jadwal penerimaan berikutnya harus dikonfirmasi kepada admin.",
+    "source": "Brosur SPMB 2026 dan data sekolah yang diberikan pengelola",
+    "brochureStatus": "official-archive",
+    "brochureLabel": "Brosur resmi SPMB 2026/2027"
+  },
+  "hero": {
+    "kicker": "Penerimaan Murid Baru",
+    "title": "Mulai perjalanan vokasimu bersama SMK Nashirul Huda.",
+    "description": "Pilih program keahlian PPLG atau MPLB dan kembangkan keterampilan, karakter, serta kesiapan menghadapi dunia kerja.",
+    "image": "assets/images/placeholders/hero-school.svg"
+  },
+  "programs": [
+    {
+      "id": "pplg",
+      "code": "PPLG",
+      "name": "Pengembangan Perangkat Lunak dan Gim",
+      "concentration": "Rekayasa Perangkat Lunak",
+      "description": "Belajar logika, pemrograman, basis data, pengembangan web dan mobile, desain produk digital, serta kewirausahaan teknologi.",
+      "url": "kompetensi-keahlian/pplg.html",
+      "theme": "technology"
+    },
+    {
+      "id": "mplb",
+      "code": "MPLB",
+      "name": "Manajemen Perkantoran dan Layanan Bisnis",
+      "concentration": "Manajemen Perkantoran",
+      "description": "Belajar administrasi modern, komunikasi bisnis, pengarsipan, pelayanan pelanggan, teknologi kantor, dan kewirausahaan layanan.",
+      "url": "kompetensi-keahlian/mplb.html",
+      "theme": "business"
+    }
+  ],
+  "requirements": {
+    "status": "needs-verification",
+    "items": [
+      "Fotokopi ijazah atau surat keterangan lulus [PERLU VERIFIKASI]",
+      "Fotokopi Kartu Keluarga [PERLU VERIFIKASI]",
+      "Fotokopi akta kelahiran [PERLU VERIFIKASI]",
+      "Pas foto terbaru [UKURAN DAN JUMLAH PERLU VERIFIKASI]",
+      "Dokumen tambahan sesuai ketentuan panitia SPMB"
+    ],
+    "note": "Daftar persyaratan di atas merupakan checklist persiapan umum dan belum menjadi ketentuan final sekolah."
+  },
+  "flow": [
+    {
+      "title": "Minta Informasi Terbaru",
+      "description": "Hubungi admin untuk memastikan gelombang, kuota, tanggal, biaya, dan persyaratan yang sedang berlaku."
+    },
+    {
+      "title": "Pilih Program Keahlian",
+      "description": "Pelajari PPLG dan MPLB sesuai minat, karakter belajar, serta rencana pengembangan diri."
+    },
+    {
+      "title": "Siapkan Dokumen",
+      "description": "Lengkapi dokumen setelah memperoleh checklist resmi dari panitia SPMB."
+    },
+    {
+      "title": "Lakukan Pendaftaran",
+      "description": "Daftar melalui kanal resmi yang ditetapkan sekolah. Formulir aktif belum tersedia pada website statis ini."
+    },
+    {
+      "title": "Verifikasi Berkas",
+      "description": "Panitia memeriksa kelengkapan dan keabsahan dokumen calon murid."
+    },
+    {
+      "title": "Daftar Ulang",
+      "description": "Ikuti prosedur daftar ulang sesuai pengumuman resmi dan jadwal yang masih berlaku."
+    }
+  ],
+  "schedule": [
+    {
+      "label": "Pendaftaran",
+      "date": "Melalui WhatsApp sesuai format pada brosur 2026",
+      "status": "archive"
+    },
+    {
+      "label": "Verifikasi Berkas",
+      "date": "[JADWAL BELUM TERSEDIA]",
+      "status": "upcoming-placeholder"
+    },
+    {
+      "label": "Pengumuman",
+      "date": "[JADWAL BELUM TERSEDIA]",
+      "status": "upcoming-placeholder"
+    },
+    {
+      "label": "Daftar Ulang 2026",
+      "date": "Sabtu, 11 Juli 2026 pukul 08.00 WIB",
+      "status": "archive"
+    }
+  ],
+  "fees": {
+    "registration": "[BIAYA PENDAFTARAN BELUM DIVERIFIKASI]",
+    "education": "[RINCIAN BIAYA PENDIDIKAN BELUM TERSEDIA]",
+    "uniform": "[RINCIAN SERAGAM BELUM TERSEDIA]",
+    "note": "Jangan melakukan pembayaran sebelum menerima informasi resmi mengenai nominal, rekening, dan bukti pembayaran dari sekolah."
+  },
+  "facilities": [
+    "Laboratorium Komputer",
+    "Ruang Praktik PPLG",
+    "Ruang Praktik MPLB",
+    "Perpustakaan",
+    "Mushola",
+    "Lapangan Upacara dan Olahraga",
+    "Asrama Putra dan Putri [INFORMASI OPERASIONAL PERLU VERIFIKASI]"
+  ],
+  "activities": [
+    "Pramuka",
+    "Paskibra",
+    "Olahraga",
+    "English Club",
+    "Organisasi siswa dan kegiatan pengembangan karakter"
+  ],
+  "contact": {
+    "whatsapp": "0851 7437 8582",
+    "whatsappLink": "https://wa.me/6285174378582",
+    "instagram": "@smknashirulhudabjg",
+    "instagramLink": "https://www.instagram.com/smknashirulhudabjg/",
+    "address": "Jl. Raya Bojonggambir, Kp. Cipalu Geleber, Desa Bojonggambir, Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+    "brochureAddress": "Jl. Raya Bojonggambir depan Alfamart Bojonggambir, Kp. Cipalu Geleber RT 01/RW 01, Desa/Kecamatan Bojonggambir, Kabupaten Tasikmalaya."
+  },
+  "faq": [
+    {
+      "question": "Apakah pendaftaran SPMB sedang dibuka?",
+      "answer": "Belum ada jadwal aktif yang terverifikasi. Jadwal daftar ulang 11 Juli 2026 telah berlalu. Hubungi admin untuk periode penerimaan berikutnya."
+    },
+    {
+      "question": "Program keahlian apa yang tersedia?",
+      "answer": "Tersedia PPLG, Pengembangan Perangkat Lunak dan Gim, serta MPLB, Manajemen Perkantoran dan Layanan Bisnis."
+    },
+    {
+      "question": "Berapa biaya pendaftaran dan pendidikan?",
+      "answer": "Rincian biaya belum tersedia pada data resmi website. Pastikan nominal dan metode pembayaran langsung kepada sekolah."
+    },
+    {
+      "question": "Apakah tersedia asrama?",
+      "answer": "Asrama putra dan putri disebutkan dalam brosur. Kapasitas, biaya, aturan, dan status operasional perlu dikonfirmasi."
+    },
+    {
+      "question": "Apakah tersedia formulir pendaftaran online?",
+      "answer": "Belum tersedia formulir online dengan backend resmi. Website tidak menyimpan data calon murid melalui localStorage atau formulir frontend palsu."
+    },
+    {
+      "question": "Bagaimana memilih PPLG atau MPLB?",
+      "answer": "Pelajari profil masing-masing program, diskusikan minat dan rencana belajar bersama orang tua, lalu konsultasikan dengan admin sekolah jika diperlukan."
+    }
+  ],
+  "interestForm": {
+    "enabled": true,
+    "mode": "whatsapp-preview",
+    "notice": "Formulir ini hanya menyusun pesan WhatsApp pada perangkat pengguna. Data tidak disimpan oleh website.",
+    "fields": [
+      "name",
+      "originSchool",
+      "program",
+      "question"
+    ]
+  },
+  "registrationMethod": {
+    "status": "official-archive",
+    "instruction": "Ketik DAFTAR, spasi, Nama, spasi, Asal Sekolah, spasi, Alamat, lalu kirim ke WhatsApp admin.",
+    "format": "DAFTAR [Nama] [Asal Sekolah] [Alamat]",
+    "destination": "0851 7437 8582",
+    "note": "Format ini tercantum pada brosur 2026. Konfirmasikan apakah format masih berlaku untuk periode penerimaan berikutnya."
+  },
+  "brochure": {
+    "title": "BROSUR 2026.pdf",
+    "file": "assets/docs/BROSUR-2026.pdf",
+    "pages": 2,
+    "status": "official-archive",
+    "previews": [
+      {
+        "image": "assets/images/spmb/brosur-2026-page-1.webp",
+        "alt": "Pratinjau halaman pertama brosur SPMB 2026 SMK Nashirul Huda"
+      },
+      {
+        "image": "assets/images/spmb/brosur-2026-page-2.webp",
+        "alt": "Pratinjau halaman kedua brosur SPMB 2026 SMK Nashirul Huda"
+      }
+    ],
+    "highlights": [
+      "Konsentrasi Rekayasa Perangkat Lunak",
+      "Konsentrasi Manajemen Perkantoran",
+      "Pendaftaran melalui WhatsApp admin",
+      "Daftar ulang 11 Juli 2026 pukul 08.00 WIB",
+      "Fasilitas, kegiatan rutin, ekstrakurikuler, dan organisasi siswa"
+    ],
+    "note": "Brosur ditampilkan sebagai arsip publikasi SPMB 2026/2027. Informasi tanggal di dalam brosur tidak otomatis berlaku untuk periode baru."
+  }
+}

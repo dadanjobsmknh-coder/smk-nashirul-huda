@@ -1,0 +1,121 @@
+[
+  {
+    "id": "ekskul-pramuka",
+    "slug": "pramuka",
+    "name": "Pramuka",
+    "category": "Wajib",
+    "description": "Pramuka menjadi ruang latihan kemandirian, kerja sama, kepemimpinan, keterampilan lapangan, pertolongan pertama dasar, tali-temali, penjelajahan, dan kepedulian sosial. Program sekolah dapat dikembangkan melalui latihan rutin, perkemahan, bakti sosial, serta latihan dasar kepemimpinan.",
+    "coach": "Neng Dalim M. S. N., S.Ak.",
+    "schedule": "Sabtu, 2 JP per minggu berdasarkan KSP",
+    "place": "[TEMPAT KEGIATAN BELUM TERSEDIA]",
+    "goals": [
+      "Melatih kemandirian dan kepemimpinan",
+      "Mengembangkan keterampilan kepramukaan",
+      "Menumbuhkan gotong royong"
+    ],
+    "activities": [
+      "Latihan rutin",
+      "Perkemahan Pramuka",
+      "Latihan Dasar Kepemimpinan"
+    ],
+    "achievements": [],
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "source": "brosur-2026-dan-sk-tugas-tambahan",
+    "contactCoach": "6285316711104",
+    "contactLabel": "Kontak sementara pembina",
+    "contentStatus": "draft-description-needs-coach-approval",
+    "referenceSources": [
+      "https://www.detik.com/jateng/berita/d-8018855/30-contoh-alasan-mengikuti-ekstrakurikuler-di-sekolah-dan-harapannya"
+    ]
+  },
+  {
+    "id": "ekskul-paskibra",
+    "slug": "paskibra",
+    "name": "Paskibra",
+    "category": "Pilihan",
+    "description": "Paskibra berfokus pada peraturan baris-berbaris, tata upacara, teknik pengibaran bendera, kebugaran, ketepatan gerak, disiplin, tanggung jawab, kerja sama tim, dan kepemimpinan. Anggota dipersiapkan untuk mendukung upacara sekolah dan kegiatan kebangsaan.",
+    "coach": "Yanuar RP. Perdana",
+    "schedule": "[JADWAL BELUM TERSEDIA]",
+    "place": "[TEMPAT BELUM TERSEDIA]",
+    "goals": [
+      "Meningkatkan disiplin",
+      "Menguasai dasar baris-berbaris",
+      "Mendukung pelaksanaan upacara sekolah"
+    ],
+    "activities": [
+      "Latihan baris-berbaris",
+      "Persiapan upacara",
+      "Pelatihan kepemimpinan"
+    ],
+    "achievements": [],
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "source": "brosur-2026-dan-sk-tugas-tambahan",
+    "contactCoach": "6285316711104",
+    "contactLabel": "Kontak sementara pembina",
+    "contentStatus": "draft-description-needs-coach-approval",
+    "referenceSources": [
+      "https://www.detik.com/jateng/berita/d-8018855/30-contoh-alasan-mengikuti-ekstrakurikuler-di-sekolah-dan-harapannya",
+      "https://www.sman1cisaga.sch.id/kesiswaan/paskibra"
+    ]
+  },
+  {
+    "id": "ekskul-olahraga",
+    "slug": "olahraga",
+    "name": "Olahraga",
+    "category": "Pilihan",
+    "description": "Pengembangan kebugaran, sportivitas, kerja tim, dan minat olahraga siswa. Brosur menyebut futsal dan bola voli.",
+    "coach": "Ahmad, S.Pd.",
+    "schedule": "[JADWAL BELUM TERSEDIA]",
+    "place": "Lapangan sekolah [PERLU VERIFIKASI]",
+    "goals": [
+      "Menjaga kebugaran",
+      "Melatih sportivitas",
+      "Mengembangkan kerja tim"
+    ],
+    "activities": [
+      "Futsal",
+      "Bola voli"
+    ],
+    "achievements": [],
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "source": "brosur-2026-dan-sk-tugas-tambahan",
+    "contactCoach": "6285316711104",
+    "contactLabel": "Kontak sementara pembina",
+    "contentStatus": "draft-description-needs-coach-approval",
+    "referenceSources": [
+      "https://www.detik.com/jateng/berita/d-8018855/30-contoh-alasan-mengikuti-ekstrakurikuler-di-sekolah-dan-harapannya"
+    ]
+  },
+  {
+    "id": "ekskul-english-club",
+    "slug": "english-club",
+    "name": "English Club",
+    "category": "Pilihan",
+    "description": "Wadah pengembangan kemampuan komunikasi Bahasa Inggris siswa.",
+    "coach": "[PEMBINA BELUM TERSEDIA]",
+    "schedule": "[JADWAL BELUM TERSEDIA]",
+    "place": "[TEMPAT BELUM TERSEDIA]",
+    "goals": [
+      "Meningkatkan kepercayaan diri berkomunikasi",
+      "Mengembangkan kosakata dan keterampilan presentasi"
+    ],
+    "activities": [],
+    "achievements": [],
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "source": "brosur-2026-dan-sk-tugas-tambahan",
+    "contactCoach": "6285316711104",
+    "contactLabel": "Kontak sementara pembina",
+    "contentStatus": "draft-description-needs-coach-approval",
+    "referenceSources": [
+      "https://www.detik.com/jateng/berita/d-8018855/30-contoh-alasan-mengikuti-ekstrakurikuler-di-sekolah-dan-harapannya"
+    ]
+  }
+]

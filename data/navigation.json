@@ -1,0 +1,4 @@
+{
+  "note": "Navigasi aktual disimpan pada partials/header.html. File ini disiapkan untuk migrasi render data-driven pada fase berikutnya.",
+  "status": "foundation"
+}

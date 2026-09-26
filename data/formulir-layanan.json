@@ -1,0 +1,36 @@
+{
+  "status": "draft-printable-no-backend",
+  "contact": "6285316711104",
+  "items": [
+    {
+      "id": "legalisir",
+      "title": "Formulir Permohonan Legalisir",
+      "fields": [
+        "Nama lengkap",
+        "NIS/NISN atau tahun lulus",
+        "Nomor WhatsApp",
+        "Jenis dokumen",
+        "Jumlah lembar",
+        "Keperluan",
+        "Tanggal pengajuan",
+        "Tanda tangan pemohon"
+      ]
+    },
+    {
+      "id": "rekomendasi",
+      "title": "Formulir Permohonan Surat Rekomendasi",
+      "fields": [
+        "Nama lengkap",
+        "Status siswa/alumni",
+        "NIS/NISN atau tahun lulus",
+        "Nomor WhatsApp",
+        "Tujuan rekomendasi",
+        "Instansi tujuan",
+        "Dokumen pendukung",
+        "Tanggal pengajuan",
+        "Tanda tangan pemohon"
+      ]
+    }
+  ],
+  "privacy": "Formulir ini untuk dicetak atau disalin ke WhatsApp. Website tidak menyimpan data."
+}

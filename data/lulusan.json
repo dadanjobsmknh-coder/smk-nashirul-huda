@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "title": "Tracer Study dan Keterserapan Lulusan",
+    "source": "Data resmi yang diberikan pengelola sekolah",
+    "lastUpdated": "2026-09-26",
+    "note": "Data disajikan per cohort. Jumlah status dapat melebihi jumlah responden karena kategori dapat tumpang tindih."
+  },
+  "selectedCohort": "2024-2025",
+  "cohorts": [
+    {
+      "id": "2024-2025",
+      "academicYear": "2024/2025",
+      "totalGraduates": 80,
+      "respondents": 66,
+      "responseRate": 82.5,
+      "collectionDate": "01 Agustus 2026",
+      "instrument": "Menyusul",
+      "respondentCriteria": "Lulusan Tahun Pelajaran 2024/2025",
+      "categories": [
+        {
+          "id": "bekerja",
+          "label": "Bekerja",
+          "count": 60,
+          "unit": "orang"
+        },
+        {
+          "id": "melanjutkan",
+          "label": "Melanjutkan Pendidikan",
+          "count": 32,
+          "unit": "orang"
+        },
+        {
+          "id": "wirausaha",
+          "label": "Berwirausaha",
+          "count": 10,
+          "unit": "orang"
+        },
+        {
+          "id": "lainnya",
+          "label": "Kategori Lain",
+          "count": 12,
+          "unit": "orang"
+        }
+      ],
+      "reportedOutcomeTotal": 114,
+      "difference": 48,
+      "status": "verified-with-overlap-note",
+      "note": "Total status 114 melebihi 66 responden. Kategori diperlakukan sebagai status yang dapat tumpang tindih dan tidak dijumlahkan menjadi 100%.",
+      "infographic": "assets/images/graduates/tracer-study-2024-2025.png"
+    },
+    {
+      "id": "2025-2026",
+      "academicYear": "2025/2026",
+      "totalGraduates": 60,
+      "respondents": 30,
+      "responseRate": 50,
+      "collectionDate": "01 Agustus 2026",
+      "instrument": "Menyusul",
+      "respondentCriteria": "Lulusan Tahun Pelajaran 2025/2026",
+      "categories": [
+        {
+          "id": "bekerja",
+          "label": "Bekerja",
+          "count": 20,
+          "unit": "orang"
+        },
+        {
+          "id": "melanjutkan",
+          "label": "Melanjutkan Pendidikan",
+          "count": 15,
+          "unit": "orang"
+        },
+        {
+          "id": "wirausaha",
+          "label": "Berwirausaha",
+          "count": 3,
+          "unit": "orang"
+        },
+        {
+          "id": "lainnya",
+          "label": "Kategori Lain",
+          "count": null,
+          "unit": "orang"
+        }
+      ],
+      "reportedOutcomeTotal": 38,
+      "difference": 8,
+      "status": "verified-with-overlap-note",
+      "note": "Total status 38 melebihi 30 responden. Kategori diperlakukan sebagai status yang dapat tumpang tindih dan tidak dijumlahkan menjadi 100%.",
+      "infographic": null
+    }
+  ],
+  "gallery": [
+    {
+      "image": "assets/images/graduates/tracer-study-2024-2025.png",
+      "alt": "Infografik tracer study lulusan 2024/2025",
+      "caption": "Ringkasan tracer study 2024/2025: 80 lulusan, 66 responden, response rate 82,5%, dan 114 status dilaporkan."
+    }
+  ],
+  "alumniStories": [
+    {
+      "id": "alumni-dadan-muhamad-romdon",
+      "name": "Dadan Muhamad Romdon",
+      "graduationYear": "2018/2019",
+      "program": "Rekayasa Perangkat Lunak",
+      "status": "Kuliah sambil bekerja",
+      "story": "Saya bangga menjadi alumni SMK NH.",
+      "photo": "assets/images/placeholders/principal.svg",
+      "photoAlt": "Foto placeholder Dadan Muhamad Romdon",
+      "photoStatus": "placeholder-with-publication-permission",
+      "publicationPermission": true,
+      "verificationStatus": "verified",
+      "source": "Data resmi yang diberikan alumni/pengelola sekolah"
+    }
+  ],
+  "methodology": {
+    "collectionPeriod": "01 Agustus 2026",
+    "instrument": "Menyusul",
+    "respondentCriteria": "Lulusan sesuai cohort yang dipilih",
+    "notes": "Instrumen survei belum diberikan. Kategori status dapat tumpang tindih, sehingga jumlah kategori tidak diperlakukan sebagai distribusi eksklusif."
+  },
+  "privacy": [
+    "Data alumni ditampilkan dalam bentuk agregat",
+    "Nama dan cerita alumni hanya dipublikasikan setelah izin diberikan",
+    "Kontak alumni tidak dipublikasikan",
+    "Data pekerjaan individu tidak dimasukkan ke indeks pencarian publik"
+  ]
+}

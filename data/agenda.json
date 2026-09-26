@@ -1,0 +1,34 @@
+[
+  {
+    "id": "agenda-1",
+    "title": "Review Projek DKK dan KK bersama industri pasangan",
+    "date": "2026-10-05",
+    "endDate": "2026-10-09",
+    "category": "Akademik",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "url": "pembelajaran/kalender-akademik.html",
+    "description": "Agenda akademik berdasarkan KSP Tahun Pelajaran 2026/2027."
+  },
+  {
+    "id": "agenda-2",
+    "title": "Peringatan Hari Sumpah Pemuda",
+    "date": "2026-10-28",
+    "category": "Kegiatan Sekolah",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "url": "pembelajaran/kalender-akademik.html",
+    "description": "Pentas budaya Gapura Pancawaluya sesuai kalender akademik sekolah."
+  },
+  {
+    "id": "agenda-3",
+    "title": "Bimbingan Portofolio dan Pemantapan Produk TEFA",
+    "date": "2026-11-23",
+    "endDate": "2026-11-27",
+    "category": "Kejuruan",
+    "status": "publish",
+    "verificationStatus": "verified",
+    "url": "pembelajaran/kalender-akademik.html",
+    "description": "Kegiatan persiapan dan pemantapan karya siswa."
+  }
+]

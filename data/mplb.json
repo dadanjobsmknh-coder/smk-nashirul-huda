@@ -1,0 +1,139 @@
+{
+  "slug": "mplb",
+  "code": "MPLB",
+  "name": "Manajemen Perkantoran dan Layanan Bisnis",
+  "concentration": "Manajemen Perkantoran",
+  "theme": "business",
+  "hero": {
+    "kicker": "Administrasi · Komunikasi · Pelayanan",
+    "title": "Kelola informasi dan layanan bisnis secara profesional.",
+    "description": "Program MPLB mengembangkan administrasi modern, komunikasi bisnis, pengelolaan dokumen, pelayanan pelanggan, dan kewirausahaan layanan.",
+    "image": "assets/images/programs/logo-mplb.png"
+  },
+  "intro": "MPLB mempersiapkan siswa mengelola pekerjaan administrasi dan layanan bisnis melalui simulasi perkantoran modern, komunikasi profesional, pengarsipan, pelayanan, dan koordinasi kegiatan.",
+  "reasons": [
+    {
+      "title": "Simulasi Dunia Kerja",
+      "description": "Siswa berlatih melalui lingkungan kantor simulatif dan tugas administrasi kontekstual."
+    },
+    {
+      "title": "Komunikasi Profesional",
+      "description": "Pembelajaran mengembangkan pelayanan, presentasi, korespondensi, dan hubungan masyarakat."
+    },
+    {
+      "title": "Administrasi Digital",
+      "description": "Pengelolaan dokumen, spreadsheet, cloud, dan alur kerja digital menjadi bagian pembelajaran."
+    }
+  ],
+  "competencies": [
+    "Komunikasi bisnis dan pelayanan pelanggan",
+    "Korespondensi dan dokumen bisnis",
+    "Pengarsipan fisik dan digital",
+    "Teknologi perkantoran",
+    "Pengelolaan rapat dan agenda",
+    "Pengelolaan administrasi umum",
+    "Pengelolaan SDM dan keuangan dasar",
+    "Public relations dan event support",
+    "Pengetikan sepuluh jari dan presentasi"
+  ],
+  "curriculum": {
+    "X": [
+      "Dasar-Dasar MPLB",
+      "Informatika",
+      "Projek IPAS",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK",
+      "Sejarah",
+      "Seni Budaya",
+      "Bahasa Sunda",
+      "Matematika",
+      "Bahasa Inggris"
+    ],
+    "XI": [
+      "Konsentrasi Keahlian MPLB",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Digital Marketing/E-Commerce",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK"
+    ],
+    "XII": [
+      "Konsentrasi Keahlian MPLB",
+      "Praktik Kerja Lapangan",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Digital Marketing/E-Commerce"
+    ]
+  },
+  "tools": [
+    "Aplikasi pengolah kata",
+    "Spreadsheet",
+    "Presentasi digital",
+    "Cloud storage dan kolaborasi",
+    "Perangkat rapat virtual",
+    "Sistem pengarsipan digital",
+    "Peralatan front office sesuai kesiapan sekolah"
+  ],
+  "projects": [
+    {
+      "level": "Kelas X",
+      "title": "Eco-Office & Paperless Filing Simulation",
+      "description": "Pengelolaan arsip digital dan tata ruang kerja ramah lingkungan."
+    },
+    {
+      "level": "Kelas X",
+      "title": "Service Excellence Front Office",
+      "description": "Simulasi pelayanan pelanggan dan penerimaan tamu."
+    },
+    {
+      "level": "Kelas XI/XII",
+      "title": "Virtual Event & Hybrid Meeting",
+      "description": "Perencanaan serta pelaksanaan rapat atau seminar bisnis hibrida."
+    },
+    {
+      "level": "Kelas XI/XII",
+      "title": "PR Campaign & EDMS",
+      "description": "Komunikasi publik dan pengelolaan dokumen elektronik."
+    }
+  ],
+  "tefa": {
+    "name": "TEFA Virtual Office",
+    "model": "Business Process Outsourcing",
+    "services": [
+      "Digital Document Management",
+      "Event Organizer & Public Relations",
+      "Administrative Support Service"
+    ]
+  },
+  "careers": [
+    "Staf administrasi",
+    "Asisten administrasi",
+    "Front office atau customer service",
+    "Staf pengarsipan",
+    "Sekretaris tingkat awal",
+    "Event support",
+    "Wirausaha layanan bisnis dan administrasi"
+  ],
+  "goals": {
+    "short": [
+      "Pembiasaan 5S dan etika komunikasi bisnis",
+      "Integrasi teknologi informasi perkantoran",
+      "Pengembangan Business Center atau mini office",
+      "Klub komunikasi bisnis dan Bahasa Inggris perkantoran"
+    ],
+    "medium": [
+      "Peningkatan sertifikasi kompetensi",
+      "Pengembangan TEFA layanan administrasi",
+      "Penguatan wirausaha layanan bisnis",
+      "Pelatihan administrasi bagi masyarakat"
+    ],
+    "long": [
+      "Peningkatan keterserapan lulusan dalam bekerja, berwirausaha, atau melanjutkan pendidikan",
+      "Pengembangan program sebagai rujukan layanan bisnis digital regional"
+    ]
+  },
+  "disclaimer": "Daftar alat dan prospek merupakan struktur pengembangan kompetensi berdasarkan KSP 2026/2027, bukan jaminan jabatan atau penggunaan aplikasi tertentu.",
+  "programLogo": "assets/images/programs/logo-mplb.png"
+}

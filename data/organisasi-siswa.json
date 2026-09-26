@@ -1,0 +1,93 @@
+[
+  {
+    "id": "osis",
+    "slug": "osis",
+    "name": "Organisasi Siswa Intra Sekolah",
+    "abbr": "OSIS",
+    "description": "Organisasi siswa yang membantu pengembangan kepemimpinan, partisipasi, karakter, dan pelaksanaan kegiatan sekolah.",
+    "advisor": "Yanuar RP. Perdana",
+    "chair": "[NAMA KETUA BELUM TERSEDIA]",
+    "logo": "assets/images/placeholders/activity.svg",
+    "programs": [],
+    "activities": [
+      "Mendukung kegiatan kesiswaan",
+      "Mendukung peringatan hari besar",
+      "Mengembangkan kepemimpinan siswa"
+    ],
+    "status": "publish",
+    "verificationStatus": "verified",
+    "advisorContact": "6285316711104",
+    "advisorContactStatus": "temporary-shared-contact",
+    "advisorContactNote": "Nomor sementara digunakan untuk seluruh organisasi sampai kontak masing-masing pembina tersedia."
+  },
+  {
+    "id": "mpk",
+    "slug": "mpk",
+    "name": "Majelis Permusyawaratan Kelas",
+    "abbr": "MPK",
+    "description": "Organisasi perwakilan kelas yang disebutkan dalam brosur sekolah. Struktur pengurus dan program kerja rinci belum tersedia.",
+    "advisor": "[PEMBINA BELUM TERSEDIA]",
+    "chair": "[NAMA KETUA BELUM TERSEDIA]",
+    "logo": "assets/images/placeholders/activity.svg",
+    "programs": [],
+    "activities": [],
+    "status": "publish",
+    "verificationStatus": "verified",
+    "advisorContact": "6285316711104",
+    "advisorContactStatus": "temporary-shared-contact",
+    "advisorContactNote": "Nomor sementara digunakan untuk seluruh organisasi sampai kontak masing-masing pembina tersedia."
+  },
+  {
+    "id": "dewan-ambalan",
+    "slug": "dewan-ambalan",
+    "name": "Dewan Ambalan Lajurda Lasatri",
+    "abbr": "Dewan Ambalan",
+    "description": "Organisasi siswa bidang kepramukaan yang disebutkan dalam brosur sekolah.",
+    "advisor": "[PEMBINA BELUM TERSEDIA]",
+    "chair": "[NAMA KETUA BELUM TERSEDIA]",
+    "logo": "assets/images/placeholders/activity.svg",
+    "programs": [],
+    "activities": [
+      "Kegiatan dan pembinaan kepramukaan"
+    ],
+    "status": "publish",
+    "verificationStatus": "verified",
+    "advisorContact": "6285316711104",
+    "advisorContactStatus": "temporary-shared-contact",
+    "advisorContactNote": "Nomor sementara digunakan untuk seluruh organisasi sampai kontak masing-masing pembina tersedia."
+  },
+  {
+    "id": "panah-dharmawidjaya",
+    "slug": "panah-dharmawidjaya",
+    "name": "Panah Dharmawidjaya",
+    "abbr": "Panah Dharmawidjaya",
+    "description": "Organisasi siswa yang disebutkan dalam brosur. Fungsi, struktur, dan program kerja perlu dilengkapi dari data resmi sekolah.",
+    "advisor": "[PEMBINA BELUM TERSEDIA]",
+    "chair": "[NAMA KETUA BELUM TERSEDIA]",
+    "logo": "assets/images/placeholders/activity.svg",
+    "programs": [],
+    "activities": [],
+    "status": "publish",
+    "verificationStatus": "needs-review",
+    "advisorContact": "6285316711104",
+    "advisorContactStatus": "temporary-shared-contact",
+    "advisorContactNote": "Nomor sementara digunakan untuk seluruh organisasi sampai kontak masing-masing pembina tersedia."
+  },
+  {
+    "id": "kader-uks",
+    "slug": "kader-uks",
+    "name": "Kader Unit Kesehatan Sekolah",
+    "abbr": "Kader UKS",
+    "description": "Kelompok siswa yang mendukung pembiasaan hidup sehat dan kegiatan kesehatan sekolah.",
+    "advisor": "[PEMBINA BELUM TERSEDIA]",
+    "chair": "[KOORDINATOR BELUM TERSEDIA]",
+    "logo": "assets/images/placeholders/activity.svg",
+    "programs": [],
+    "activities": [],
+    "status": "publish",
+    "verificationStatus": "verified",
+    "advisorContact": "6285316711104",
+    "advisorContactStatus": "temporary-shared-contact",
+    "advisorContactNote": "Nomor sementara digunakan untuk seluruh organisasi sampai kontak masing-masing pembina tersedia."
+  }
+]

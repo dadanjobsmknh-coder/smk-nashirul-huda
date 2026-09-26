@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mpls",
+    "slug": "mpls",
+    "name": "Masa Pengenalan Lingkungan Sekolah",
+    "category": "Kesiswaan",
+    "time": "13–15 Juli 2026",
+    "description": "Pengenalan lingkungan, tata tertib, budaya sekolah, program keahlian, dan layanan siswa baru.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "orientasi-tefa",
+    "slug": "orientasi-tefa",
+    "name": "Orientasi TEFA dan Budaya Kerja",
+    "category": "Kejuruan",
+    "time": "16–17 Juli 2026",
+    "description": "Asesmen diagnostik dan pengenalan budaya kerja SMK serta Teaching Factory.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "projek-kokurikuler",
+    "slug": "projek-kokurikuler",
+    "name": "Projek Kokurikuler",
+    "category": "Pembelajaran",
+    "time": "Agustus 2026 dan Februari 2027",
+    "description": "Projek kolaboratif lintas disiplin dengan tema digitalisasi kantor hijau dan layanan masyarakat cerdas.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "pkl",
+    "slug": "pkl",
+    "name": "Praktik Kerja Lapangan",
+    "category": "Dunia Kerja",
+    "time": "Periode Kelas XII sesuai kalender akademik",
+    "description": "Pembelajaran di dunia kerja untuk mengembangkan kompetensi teknis dan budaya kerja.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "ukk",
+    "slug": "ukk",
+    "name": "Uji Kompetensi Keahlian",
+    "category": "Asesmen",
+    "time": "15–26 Maret 2027",
+    "description": "Pengujian kompetensi keahlian siswa kelas XII bersama penguji eksternal atau lembaga terkait.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  },
+  {
+    "id": "expo-tefa",
+    "slug": "expo-tefa",
+    "name": "Pameran Karya TEFA dan Job Fair",
+    "category": "Kejuruan",
+    "time": "17–28 Mei 2027",
+    "description": "Pameran karya program keahlian dan kegiatan penguatan hubungan dengan dunia kerja.",
+    "image": "assets/images/placeholders/activity.svg",
+    "status": "publish",
+    "verificationStatus": "verified"
+  }
+]

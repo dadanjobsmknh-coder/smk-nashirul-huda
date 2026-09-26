@@ -1,0 +1,103 @@
+{
+  "curriculum": {
+    "name": "Kurikulum Satuan Pendidikan 2026/2027",
+    "implementation": "Kurikulum Merdeka",
+    "description": "Pengorganisasian pembelajaran memadukan intrakurikuler, kokurikuler, ekstrakurikuler, Praktik Kerja Lapangan, pembiasaan, dan Teaching Factory untuk mengembangkan kompetensi vokasional serta karakter siswa.",
+    "principles": [
+      {
+        "title": "Pembelajaran Berbasis Projek",
+        "description": "Siswa menerapkan pengetahuan dan keterampilan melalui produk atau layanan kontekstual."
+      },
+      {
+        "title": "Pembelajaran Mendalam",
+        "description": "Pembelajaran diarahkan pada pemahaman, penerapan, refleksi, dan keterhubungan dengan situasi nyata."
+      },
+      {
+        "title": "Penyelarasan Dunia Kerja",
+        "description": "Kompetensi kejuruan, budaya kerja, projek, dan asesmen dikembangkan dengan orientasi kebutuhan dunia kerja."
+      },
+      {
+        "title": "Karakter dan Kearifan Lokal",
+        "description": "Pembiasaan sekolah mengintegrasikan nilai religius, 7 Kebiasaan Anak Indonesia Hebat, dan Gapura Pancawaluya."
+      }
+    ],
+    "organization": [
+      {
+        "title": "Intrakurikuler",
+        "description": "Mata pelajaran umum, kejuruan, pilihan, Projek Kreatif dan Kewirausahaan, serta Praktik Kerja Lapangan."
+      },
+      {
+        "title": "Kokurikuler",
+        "description": "Projek lintas disiplin yang memperkuat kompetensi, kewirausahaan, kepedulian sosial, dan lingkungan."
+      },
+      {
+        "title": "Ekstrakurikuler",
+        "description": "Pengembangan minat, bakat, kebugaran, kedisiplinan, dan kepemimpinan siswa."
+      },
+      {
+        "title": "Teaching Factory",
+        "description": "Pembelajaran berbasis proses kerja, produk, atau jasa yang mendekati budaya industri."
+      }
+    ],
+    "models": [
+      "Project-Based Learning",
+      "Problem-Based Learning",
+      "Design Thinking-Based Learning",
+      "STEMpreneur / Entrepreneurial Learning",
+      "Discovery dan Inquiry Learning"
+    ],
+    "assessment": [
+      "Asesmen diagnostik",
+      "Asesmen formatif",
+      "Asesmen sumatif",
+      "Penilaian projek dan produk",
+      "Penilaian PKL",
+      "Uji Kompetensi Keahlian"
+    ],
+    "source": "KSP SMK Nashirul Huda Tahun Pelajaran 2026/2027"
+  },
+  "blockSystem": {
+    "description": "Dokumen KSP menjelaskan rencana Sistem Blok Mingguan dengan siklus Minggu A dan Minggu B. Jadwal harian final harus diverifikasi sebelum digunakan sebagai jadwal operasional.",
+    "weekA": {
+      "title": "Minggu A",
+      "focus": "Mata pelajaran umum, muatan lokal, literasi, numerasi, dan fondasi teori."
+    },
+    "weekB": {
+      "title": "Minggu B",
+      "focus": "Mata pelajaran kejuruan, projek, Teaching Factory, PKK, dan mata pelajaran pilihan."
+    },
+    "verificationStatus": "needs-review"
+  },
+  "habits": [
+    {
+      "day": "Senin",
+      "activity": "Upacara Bendera",
+      "duration": "60 menit"
+    },
+    {
+      "day": "Selasa",
+      "activity": "Istigosah",
+      "duration": "30 menit sebelum KBM"
+    },
+    {
+      "day": "Rabu",
+      "activity": "Latihan Baris-Berbaris",
+      "duration": "30 menit sebelum KBM"
+    },
+    {
+      "day": "Kamis",
+      "activity": "Kewalikelasan",
+      "duration": "60 menit sebelum KBM"
+    },
+    {
+      "day": "Jumat",
+      "activity": "Jumat Taqwa, Jumat Sehat, atau Jumat Bersih",
+      "duration": "Rotasi mingguan"
+    },
+    {
+      "day": "Sabtu",
+      "activity": "Istigosah",
+      "duration": "30 menit sebelum KBM"
+    }
+  ]
+}

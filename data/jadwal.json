@@ -1,0 +1,234 @@
+{
+  "academicYear": "2026/2027",
+  "status": "dummy-replace-with-final",
+  "notice": "Jadwal berikut adalah data contoh dan bukan jadwal operasional final. Ganti setelah wakil kepala sekolah bidang kurikulum menyerahkan jadwal resmi.",
+  "image": "assets/images/learning/jadwal-pelajaran-dummy-2026-2027.png",
+  "days": [
+    "Senin",
+    "Selasa",
+    "Rabu",
+    "Kamis",
+    "Jumat",
+    "Sabtu"
+  ],
+  "classes": [
+    {
+      "name": "X PPLG",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "PAI dan Bahasa Indonesia",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Matematika dan Informatika",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "Bahasa Inggris dan Projek",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Pendidikan Pancasila",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "PJOK dan Bahasa Sunda",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    },
+    {
+      "name": "XI PPLG",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "Pemrograman Web",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Basis Data",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "Bahasa Inggris dan Matematika",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Pemrograman Bergerak",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "PKK dan Projek",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    },
+    {
+      "name": "XII PPLG",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "Projek Perangkat Lunak",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Basis Data Lanjut",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "PKK dan Bahasa Inggris",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Pemrograman Web",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "Pendidikan Pancasila",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    },
+    {
+      "name": "X MPLB",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "Dasar MPLB",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Bahasa Indonesia dan Informatika",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "Matematika dan Bahasa Inggris",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Korespondensi",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "PJOK dan Bahasa Sunda",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    },
+    {
+      "name": "XI MPLB",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "Administrasi Perkantoran",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Kearsipan",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "Layanan Bisnis",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Teknologi Perkantoran",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "PKK dan Projek",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    },
+    {
+      "name": "XII MPLB",
+      "items": [
+        {
+          "day": "Senin",
+          "activity": "Projek Layanan Bisnis",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Selasa",
+          "activity": "Manajemen Dokumen",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Rabu",
+          "activity": "Komunikasi Bisnis",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Kamis",
+          "activity": "Teknologi Perkantoran",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Jumat",
+          "activity": "PKK dan Bahasa Inggris",
+          "time": "07.00-selesai (contoh)"
+        },
+        {
+          "day": "Sabtu",
+          "activity": "Pramuka dan Projek",
+          "time": "07.00-selesai (contoh)"
+        }
+      ]
+    }
+  ],
+  "source": "Draf dummy buatan Copilot atas permintaan pengguna",
+  "replaceChecklist": [
+    "Jam mulai dan selesai setiap JP",
+    "Nama guru pengampu",
+    "Ruang belajar",
+    "Mapel per jam",
+    "Jadwal istirahat, upacara, dan pembiasaan"
+  ]
+}

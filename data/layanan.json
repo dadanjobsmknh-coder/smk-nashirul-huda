@@ -1,0 +1,111 @@
+[
+  {
+    "id": "legalisir",
+    "slug": "legalisir",
+    "name": "Layanan Legalisir",
+    "shortDescription": "Prosedur administrasi sementara yang dapat digunakan sambil menunggu penetapan SOP melalui keputusan sekolah.",
+    "definition": "Legalisir adalah proses pengesahan salinan dokumen dengan mencocokkannya terhadap dokumen asli atau arsip sekolah sesuai ketentuan yang berlaku.",
+    "applicants": [
+      "Alumni SMK Nashirul Huda",
+      "Orang tua atau wali dengan surat kuasa jika diperlukan",
+      "Pihak lain yang memperoleh kewenangan sesuai ketentuan sekolah"
+    ],
+    "requirements": [
+      "Dokumen asli yang akan dilegalisir",
+      "Fotokopi dokumen sesuai kebutuhan",
+      "Identitas pemohon",
+      "Surat kuasa dan identitas penerima kuasa jika diwakilkan"
+    ],
+    "documents": [
+      "Dokumen asli yang akan dilegalisir",
+      "Fotokopi dokumen sesuai kebutuhan",
+      "Identitas pemohon",
+      "Surat kuasa dan identitas penerima kuasa jika diwakilkan"
+    ],
+    "steps": [
+      "Pemohon menghubungi administrasi atau mengisi formulir layanan",
+      "Petugas memeriksa dokumen asli dan fotokopi",
+      "Berkas yang belum lengkap dikembalikan untuk dilengkapi",
+      "Pejabat berwenang melakukan verifikasi dan pengesahan",
+      "Petugas mencatat penyelesaian layanan",
+      "Pemohon mengambil dokumen dan memeriksa hasilnya"
+    ],
+    "duration": "Target layanan: 1-3 hari kerja setelah berkas dinyatakan lengkap (draf standar, perlu penetapan sekolah)",
+    "fee": "Tidak dipungut biaya, kecuali terdapat kebijakan resmi sekolah yang diumumkan tertulis",
+    "hours": "Senin-Sabtu pada jam kerja sekolah; konfirmasi kedatangan melalui WhatsApp",
+    "contact": "0851 7437 8582",
+    "form": "layanan/formulir.html?jenis=legalisir",
+    "status": "publish",
+    "verificationStatus": "interim-sop-needs-school-decree",
+    "source": "Draf SOP operasional buatan Copilot atas permintaan pengguna; menunggu penetapan kepala sekolah",
+    "faq": [
+      {
+        "question": "Apakah layanan dapat diwakilkan?",
+        "answer": "Dapat dipertimbangkan dengan surat kuasa dan identitas para pihak. Konfirmasikan sebelum datang."
+      },
+      {
+        "question": "Kapan dokumen dapat diambil?",
+        "answer": "Petugas akan memberi pemberitahuan setelah dokumen selesai. Target waktu dihitung sejak berkas lengkap."
+      },
+      {
+        "question": "Apakah ada biaya?",
+        "answer": "Draf SOP menetapkan tidak dipungut biaya, kecuali ada kebijakan resmi tertulis."
+      }
+    ]
+  },
+  {
+    "id": "surat-rekomendasi",
+    "slug": "surat-rekomendasi",
+    "name": "Surat Rekomendasi",
+    "shortDescription": "Prosedur administrasi sementara yang dapat digunakan sambil menunggu penetapan SOP melalui keputusan sekolah.",
+    "definition": "Surat rekomendasi adalah surat resmi sekolah yang memberi keterangan atau rekomendasi kepada siswa, alumni, atau pemohon yang memenuhi ketentuan untuk tujuan tertentu.",
+    "applicants": [
+      "Siswa aktif",
+      "Alumni",
+      "Orang tua atau wali sesuai kebutuhan",
+      "Pemohon lain yang berhak sesuai kebijakan sekolah"
+    ],
+    "requirements": [
+      "Formulir permohonan yang telah diisi",
+      "Identitas pemohon",
+      "Dokumen pendukung sesuai tujuan rekomendasi",
+      "Bukti hubungan dengan sekolah jika diperlukan"
+    ],
+    "documents": [
+      "Formulir permohonan yang telah diisi",
+      "Identitas pemohon",
+      "Dokumen pendukung sesuai tujuan rekomendasi",
+      "Bukti hubungan dengan sekolah jika diperlukan"
+    ],
+    "steps": [
+      "Pemohon mengisi formulir dan menjelaskan tujuan surat",
+      "Petugas memeriksa identitas serta dokumen pendukung",
+      "Unit terkait memverifikasi data dan tujuan rekomendasi",
+      "Draf surat disiapkan dan diperiksa",
+      "Pejabat berwenang memberikan persetujuan dan tanda tangan",
+      "Pemohon menerima surat serta memeriksa kebenaran data"
+    ],
+    "duration": "Target layanan: 1-3 hari kerja setelah berkas dinyatakan lengkap (draf standar, perlu penetapan sekolah)",
+    "fee": "Tidak dipungut biaya, kecuali terdapat kebijakan resmi sekolah yang diumumkan tertulis",
+    "hours": "Senin-Sabtu pada jam kerja sekolah; konfirmasi kedatangan melalui WhatsApp",
+    "contact": "0851 7437 8582",
+    "form": "layanan/formulir.html?jenis=rekomendasi",
+    "status": "publish",
+    "verificationStatus": "interim-sop-needs-school-decree",
+    "source": "Draf SOP operasional buatan Copilot atas permintaan pengguna; menunggu penetapan kepala sekolah",
+    "faq": [
+      {
+        "question": "Apakah layanan dapat diwakilkan?",
+        "answer": "Dapat dipertimbangkan dengan surat kuasa dan identitas para pihak. Konfirmasikan sebelum datang."
+      },
+      {
+        "question": "Kapan dokumen dapat diambil?",
+        "answer": "Petugas akan memberi pemberitahuan setelah dokumen selesai. Target waktu dihitung sejak berkas lengkap."
+      },
+      {
+        "question": "Apakah ada biaya?",
+        "answer": "Draf SOP menetapkan tidak dipungut biaya, kecuali ada kebijakan resmi tertulis."
+      }
+    ]
+  }
+]

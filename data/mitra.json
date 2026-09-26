@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "source": "Data resmi sekolah dan verifikasi identitas publik mitra",
+    "lastUpdated": "2026-09-26",
+    "note": "Mitra resmi dan tempat Praktik Kerja Lapangan (PKL) SMK Nashirul Huda Bojonggambir."
+  },
+  "partners": [
+    {
+      "id": "bank-cij",
+      "name": "PT BPR Cipatujah Jawa Barat Perseroda (bank CiJ)",
+      "displayName": "bank CiJ",
+      "field": "Perbankan",
+      "cooperation": "Kerja sama Praktik Kerja Lapangan (PKL)",
+      "validUntil": "2027",
+      "website": "https://bankcij.co.id/",
+      "address": "Jl. Raya Ciawi-Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+      "description": "bank CiJ merupakan mitra resmi SMK Nashirul Huda Bojonggambir dalam pelaksanaan Praktik Kerja Lapangan dan penguatan kesiapan kerja peserta didik.",
+      "logo": "",
+      "logoAlt": "",
+      "logoStatus": "not-published",
+      "publicContact": "",
+      "status": "publish",
+      "verificationStatus": "verified",
+      "evidence": "MoU",
+      "source": "Data resmi sekolah; identitas legal dan website diverifikasi melalui situs bank CiJ",
+      "officialPartner": true,
+      "partnerStatus": "Mitra Resmi"
+    },
+    {
+      "id": "kantor-desa-bojonggambir",
+      "name": "Kantor Desa Bojonggambir",
+      "displayName": "Kantor Desa Bojonggambir",
+      "field": "Pemerintahan",
+      "cooperation": "Kerja sama Praktik Kerja Lapangan (PKL)",
+      "validUntil": "2027",
+      "website": "https://desabojonggambir.com/",
+      "address": "Jl. Raya Ciawi-Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+      "description": "Kantor Desa Bojonggambir menjadi mitra praktik kerja bagi peserta didik untuk mengenal lingkungan pemerintahan desa, pelayanan administrasi masyarakat, pengelolaan informasi publik, serta penerapan tata kelola dan teknologi informasi dalam layanan desa.",
+      "logo": "",
+      "logoAlt": "",
+      "logoStatus": "not-published",
+      "publicContact": "",
+      "status": "publish",
+      "verificationStatus": "verified",
+      "evidence": "MoU",
+      "source": "Data resmi sekolah; deskripsi layanan disusun berdasarkan fungsi pemerintahan desa dan informasi publik Desa/Kecamatan Bojonggambir",
+      "officialPartner": true,
+      "partnerStatus": "Mitra Resmi"
+    }
+  ],
+  "candidates": []
+}

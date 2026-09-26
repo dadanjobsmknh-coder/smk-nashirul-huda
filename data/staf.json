@@ -1,0 +1,98 @@
+[
+  {
+    "id": "staf-1",
+    "slug": "yana-rismayana",
+    "name": "Yana Rismayana, S.E.",
+    "position": "Kepala Tenaga Administrasi Sekolah",
+    "type": "staf",
+    "photo": "assets/images/placeholders/principal.svg",
+    "description": "Yana Rismayana, S.E. tercatat sebagai Kepala Tenaga Administrasi Sekolah. Fokus tugas yang ditampilkan saat ini adalah Kepala Tenaga Administrasi Sekolah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas kepala tenaga administrasi sekolah",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ]
+  },
+  {
+    "id": "staf-2",
+    "slug": "yanuar-rp-perdana",
+    "name": "Yanuar RP. Perdana",
+    "position": "Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra",
+    "type": "staf",
+    "photo": "assets/images/placeholders/principal.svg",
+    "description": "Yanuar RP. Perdana tercatat sebagai Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra. Fokus tugas yang ditampilkan saat ini adalah Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas anggota tenaga administrasi sekolah; pembina osis dan paskibra",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ]
+  },
+  {
+    "id": "staf-3",
+    "slug": "pitri-nurwasilah-tas",
+    "name": "Pitri Nurwasilah",
+    "position": "Anggota Tenaga Administrasi Sekolah",
+    "type": "staf",
+    "photo": "assets/images/placeholders/principal.svg",
+    "description": "Pitri Nurwasilah tercatat sebagai Anggota Tenaga Administrasi Sekolah. Fokus tugas yang ditampilkan saat ini adalah Anggota Tenaga Administrasi Sekolah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas anggota tenaga administrasi sekolah",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ]
+  },
+  {
+    "id": "staf-4",
+    "slug": "aa-mansur",
+    "name": "Drs. AA Mansur",
+    "position": "Kepala Perpustakaan",
+    "type": "staf",
+    "photo": "assets/images/placeholders/principal.svg",
+    "description": "Drs. AA Mansur tercatat sebagai Kepala Perpustakaan. Fokus tugas yang ditampilkan saat ini adalah Kepala Perpustakaan. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas kepala perpustakaan",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "hero": [
+    {
+      "id": "hero-sekolah",
+      "eyebrow": "Sekolah Vokasi Modern di Bojonggambir",
+      "title": "Terampil, berkarakter, dan siap menghadapi dunia kerja.",
+      "description": "SMK Nashirul Huda Bojonggambir menghadirkan pendidikan vokasi berbasis teknologi, layanan bisnis, karakter, dan kekeluargaan.",
+      "image": "assets/images/placeholders/hero-school.svg",
+      "alt": "Placeholder foto lingkungan SMK Nashirul Huda Bojonggambir",
+      "primaryCta": {
+        "label": "Informasi SPMB",
+        "url": "spmb/"
+      },
+      "secondaryCta": {
+        "label": "Kenal Lebih Dekat",
+        "url": "profil/"
+      }
+    },
+    {
+      "id": "hero-pplg",
+      "eyebrow": "Pengembangan Perangkat Lunak dan Gim",
+      "title": "Belajar membangun solusi digital yang bermanfaat.",
+      "description": "PPLG membekali siswa dengan fondasi pengembangan aplikasi, pemecahan masalah, kerja proyek, dan kewirausahaan digital.",
+      "image": "assets/images/placeholders/hero-pplg.svg",
+      "alt": "Ilustrasi placeholder program PPLG",
+      "primaryCta": {
+        "label": "Jelajahi PPLG",
+        "url": "kompetensi-keahlian/pplg.html"
+      },
+      "secondaryCta": {
+        "label": "Lihat Kurikulum",
+        "url": "pembelajaran/kurikulum.html"
+      }
+    },
+    {
+      "id": "hero-mplb",
+      "eyebrow": "Manajemen Perkantoran dan Layanan Bisnis",
+      "title": "Profesional dalam administrasi, komunikasi, dan pelayanan.",
+      "description": "MPLB mengembangkan keterampilan administrasi modern, komunikasi bisnis, pengelolaan dokumen, dan pelayanan profesional.",
+      "image": "assets/images/placeholders/hero-mplb.svg",
+      "alt": "Ilustrasi placeholder program MPLB",
+      "primaryCta": {
+        "label": "Jelajahi MPLB",
+        "url": "kompetensi-keahlian/mplb.html"
+      },
+      "secondaryCta": {
+        "label": "Hubungi Sekolah",
+        "url": "hubungi-kami/"
+      }
+    }
+  ],
+  "quickActions": [
+    {
+      "icon": "✦",
+      "title": "SPMB",
+      "description": "Informasi penerimaan murid baru.",
+      "url": "spmb/"
+    },
+    {
+      "icon": "⌘",
+      "title": "Program Keahlian",
+      "description": "Kenali PPLG dan MPLB.",
+      "url": "kompetensi-keahlian/"
+    },
+    {
+      "icon": "▣",
+      "title": "Jadwal Pelajaran",
+      "description": "Akses informasi pembelajaran.",
+      "url": "pembelajaran/jadwal-pelajaran.html"
+    },
+    {
+      "icon": "◇",
+      "title": "Pengumuman",
+      "description": "Pembaruan resmi sekolah.",
+      "url": "informasi/pengumuman.html"
+    }
+  ],
+  "stats": [
+    {
+      "value": "20268931",
+      "label": "NPSN",
+      "verified": true
+    },
+    {
+      "value": "2",
+      "label": "Program Keahlian",
+      "verified": true
+    },
+    {
+      "value": "2010",
+      "label": "Mulai Beroperasi",
+      "verified": true
+    },
+    {
+      "value": "B",
+      "label": "Akreditasi",
+      "verified": true
+    }
+  ],
+  "advantages": [
+    {
+      "icon": "✓",
+      "title": "Kualitas Teruji",
+      "description": "Pengajar profesional dengan orientasi kompetensi dan kebutuhan dunia kerja."
+    },
+    {
+      "icon": "↗",
+      "title": "Jurusan Strategis",
+      "description": "Bidang teknologi komputer serta layanan bisnis yang relevan dengan perkembangan industri."
+    },
+    {
+      "icon": "♡",
+      "title": "Budaya Humanis",
+      "description": "Lingkungan belajar yang menjunjung kekeluargaan, pembentukan karakter, dan nilai religius."
+    },
+    {
+      "icon": "★",
+      "title": "Lulusan Unggul",
+      "description": "Pembelajaran diarahkan untuk membentuk generasi mandiri, terampil, dan berkarakter."
+    }
+  ],
+  "principal": {
+    "name": "Annissya Astaria, S.Pd., Gr.",
+    "role": "Kepala SMK Nashirul Huda Bojonggambir",
+    "photo": "assets/images/people/annisya-astaria.png",
+    "alt": "Foto Kepala SMK Nashirul Huda Bojonggambir",
+    "message": "Selamat datang di portal SMK Nashirul Huda Bojonggambir. Kami berkomitmen menghadirkan pendidikan vokasi yang mengembangkan kompetensi, karakter, kemandirian, dan kesiapan menghadapi perubahan dunia kerja.",
+    "note": "Teks sambutan sementara. Ganti dengan sambutan resmi kepala sekolah.",
+    "url": "profil/sambutan-kepala-sekolah.html"
+  },
+  "spmb": {
+    "status": "archive",
+    "label": "Informasi SPMB",
+    "title": "Mulai perjalanan vokasimu bersama SMK Nashirul Huda.",
+    "description": "Informasi aktif mengenai gelombang, persyaratan, kuota, dan biaya belum tersedia. Hubungi admin untuk memperoleh pembaruan resmi.",
+    "whatsapp": "https://wa.me/6285174378582?text=Assalamu%27alaikum%2C%20saya%20ingin%20meminta%20informasi%20SPMB%20SMK%20Nashirul%20Huda.",
+    "detailUrl": "spmb/",
+    "notice": "Jadwal daftar ulang 11 Juli 2026 pada brosur telah berlalu dan disimpan sebagai arsip."
+  },
+  "contact": {
+    "address": "Jl. Raya Bojonggambir, Kp. Cipalu Geleber, Desa Bojonggambir, Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
+    "whatsapp": "0851 7437 8582",
+    "instagram": "@smknashirulhudabjg",
+    "email": "[VERIFIKASI EMAIL RESMI]"
+  }
+}

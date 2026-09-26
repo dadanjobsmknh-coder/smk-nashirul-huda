@@ -1,0 +1,65 @@
+{
+  "pplg": {
+    "X": [
+      "Dasar-Dasar PPLG",
+      "Informatika",
+      "Projek IPAS",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK",
+      "Sejarah",
+      "Seni Budaya",
+      "Bahasa Sunda",
+      "Matematika",
+      "Bahasa Inggris"
+    ],
+    "XI": [
+      "Konsentrasi Keahlian PPLG",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Cloud Computing/DevOps",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK"
+    ],
+    "XII": [
+      "Konsentrasi Keahlian PPLG",
+      "Praktik Kerja Lapangan",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Cloud Computing/DevOps"
+    ]
+  },
+  "mplb": {
+    "X": [
+      "Dasar-Dasar MPLB",
+      "Informatika",
+      "Projek IPAS",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK",
+      "Sejarah",
+      "Seni Budaya",
+      "Bahasa Sunda",
+      "Matematika",
+      "Bahasa Inggris"
+    ],
+    "XI": [
+      "Konsentrasi Keahlian MPLB",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Digital Marketing/E-Commerce",
+      "Pendidikan Agama dan Budi Pekerti",
+      "Pendidikan Pancasila",
+      "Bahasa Indonesia",
+      "PJOK"
+    ],
+    "XII": [
+      "Konsentrasi Keahlian MPLB",
+      "Praktik Kerja Lapangan",
+      "Projek Kreatif dan Kewirausahaan",
+      "Mata Pelajaran Pilihan: Digital Marketing/E-Commerce"
+    ]
+  },
+  "source": "KSP SMK Nashirul Huda Tahun Pelajaran 2026/2027"
+}

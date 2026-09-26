@@ -1,0 +1,32 @@
+{
+  "vision": "Terwujudnya Lulusan Yang Bertaqwa, Berwawasan Wirausaha Dan Kompeten Dalam Bidang Teknologi Informasi Pada Tahun 2030",
+  "pillars": [
+    {
+      "title": "Bertaqwa",
+      "description": "Menumbuhkan landasan moral, etika, dan spiritualitas."
+    },
+    {
+      "title": "Berwawasan Wirausaha",
+      "description": "Mengembangkan kemandirian, kreativitas, inovasi, dan keberanian menciptakan peluang."
+    },
+    {
+      "title": "Kompeten",
+      "description": "Menguatkan keterampilan vokasional, kemampuan adaptasi, dan kesiapan kerja."
+    }
+  ],
+  "missions": [
+    "Membina suasana religius dengan meningkatkan iman dan taqwa kepada Tuhan Yang Maha Esa melalui pembiasaan budaya sekolah dan integrasi nilai spiritual dalam pembelajaran.",
+    "Menerapkan ilmu pengetahuan dan keterampilan yang diperoleh di kelas, laboratorium, dan dunia kerja secara praktis dan solutif.",
+    "Mengembangkan keterampilan dan sikap wirausaha siswa melalui pendidikan kewirausahaan, kreativitas, inovasi, dan kepemimpinan yang relevan dengan bidang teknologi.",
+    "Mengembangkan pendidikan, pengetahuan, dan keterampilan berkualitas yang selaras dengan Standar Kompetensi Kerja Nasional Indonesia.",
+    "Mengembangkan minat dan bakat siswa serta meningkatkan prestasi nonakademik melalui kegiatan ekstrakurikuler yang terstruktur dan berkelanjutan.",
+    "Mencetak lulusan yang kompeten dan mampu bersaing di pasar tenaga kerja nasional maupun internasional.",
+    "Mengembangkan kreativitas warga sekolah untuk mendukung tercapainya standar kompetensi lulusan.",
+    "Menyelenggarakan pendidikan dan pelatihan di bidang teknologi informasi bagi masyarakat sesuai perkembangan teknologi informasi."
+  ],
+  "programGoals": {
+    "PPLG": "Menghasilkan calon pengembang perangkat lunak, web/mobile developer, dan pengembang gim yang berkarakter religius serta berjiwa wirausaha digital.",
+    "MPLB": "Menghasilkan calon staf administrasi perkantoran modern, layanan pelanggan, dan wirausaha layanan perkantoran yang terampil memanfaatkan teknologi informasi."
+  },
+  "source": "KSP SMK Nashirul Huda Tahun Pelajaran 2026/2027"
+}

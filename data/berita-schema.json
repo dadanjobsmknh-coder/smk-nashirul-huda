@@ -1,0 +1,23 @@
+{
+  "_note": "Contoh struktur saja. Jangan dianggap berita resmi dan jangan ubah status menjadi publish sebelum konten diverifikasi.",
+  "id": "berita-contoh",
+  "slug": "judul-berita",
+  "title": "[JUDUL BERITA]",
+  "category": "[KATEGORI]",
+  "date": "YYYY-MM-DD",
+  "time": "HH:MM",
+  "author": "Admin",
+  "image": "assets/images/placeholders/activity.svg",
+  "imageAlt": "[ALT GAMBAR]",
+  "summary": "[RINGKASAN BERITA]",
+  "content": [
+    "[PARAGRAF PERTAMA]",
+    "[PARAGRAF BERIKUTNYA]"
+  ],
+  "gallery": [],
+  "caption": "[CAPTION]",
+  "status": "draft",
+  "verificationStatus": "placeholder",
+  "featured": false,
+  "source": "school-admin"
+}
