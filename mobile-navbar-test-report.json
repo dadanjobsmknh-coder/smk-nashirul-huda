@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "devices": 6,
+    "passed": 6,
+    "failed": 0
+  },
+  "results": [
+    {
+      "device": "iPhone SE",
+      "viewport": "375x667",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    },
+    {
+      "device": "iPhone 14",
+      "viewport": "390x844",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    },
+    {
+      "device": "Galaxy S20",
+      "viewport": "360x800",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    },
+    {
+      "device": "Pixel 7",
+      "viewport": "412x915",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    },
+    {
+      "device": "iPad Mini portrait",
+      "viewport": "768x1024",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    },
+    {
+      "device": "iPad landscape",
+      "viewport": "1024x768",
+      "pass": true,
+      "checks": {
+        "desktop_nav_hidden": true,
+        "hamburger_visible": true,
+        "search_visible": true,
+        "desktop_spmb_hidden": true,
+        "mobile_spmb_available": true,
+        "slideover_closed_default": true,
+        "slideover_open_state": true,
+        "panel_scrollable": true,
+        "dynamic_viewport_height": true,
+        "escape_closes": true,
+        "accordion_operational": true,
+        "body_scroll_lock": true
+      }
+    }
+  ]
+}

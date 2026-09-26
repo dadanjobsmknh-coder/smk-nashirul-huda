@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /docs/
+Sitemap: [GANTI-DOMAIN-PRODUKSI]/sitemap.xml

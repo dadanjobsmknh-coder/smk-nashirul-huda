@@ -1,0 +1,38 @@
+{
+  "name": "SMK Nashirul Huda Bojonggambir",
+  "short_name": "SMK NH",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#002147",
+  "icons": [
+    {
+      "src": "assets/icons/favicon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "id": "./",
+  "scope": "./",
+  "orientation": "any",
+  "lang": "id",
+  "description": "Portal resmi SMK Nashirul Huda Bojonggambir.",
+  "categories": [
+    "education"
+  ],
+  "shortcuts": [
+    {
+      "name": "SPMB",
+      "url": "./spmb/"
+    },
+    {
+      "name": "Program Keahlian",
+      "url": "./kompetensi-keahlian/"
+    },
+    {
+      "name": "Hubungi Kami",
+      "url": "./hubungi-kami/"
+    }
+  ]
+}
