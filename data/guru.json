@@ -6,7 +6,7 @@
     "position": "Wakil Kepala Sekolah Urusan Kurikulum",
     "subject": "Pendidikan Agama Islam",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/ruhilah.jpeg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -18,12 +18,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Ruhilah, S.Pd.I. tercatat sebagai Wakil Kepala Sekolah Urusan Kurikulum. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Agama Islam. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/ruhilah/",
+      "facebook": "https://www.facebook.com/ruhilah",
+      "whatsapp": "https://wa.me/6281200000001"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "1",
+    "nuptk": "1",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://ruhilah.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-2",
@@ -32,7 +42,7 @@
     "position": "Guru",
     "subject": "Bahasa Sunda",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/dede-uniati.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -44,12 +54,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Dede Uniati, S.Ag. tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah Bahasa Sunda. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/dede-uniati/",
+      "facebook": "https://www.facebook.com/dede-uniati",
+      "whatsapp": "https://wa.me/6281200000002"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "2",
+    "nuptk": "2",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://dede-uniati.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-3",
@@ -58,7 +78,7 @@
     "position": "Wakil Kepala Sekolah Urusan Kesiswaan",
     "subject": "Pendidikan Pancasila dan Desain Grafis",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/atep-muhamad-ikhsan.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -70,12 +90,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Atep Muhamad Ikhsan, S.Pd. tercatat sebagai Wakil Kepala Sekolah Urusan Kesiswaan. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Pancasila dan Desain Grafis. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/atep-muhamad-ikhsan/",
+      "facebook": "https://www.facebook.com/atep-muhamad-ikhsan",
+      "whatsapp": "https://wa.me/6281200000003"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "3",
+    "nuptk": "3",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://atep-muhamad-ikhsan.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-4",
@@ -84,7 +114,7 @@
     "position": "Guru MPLB",
     "subject": "Pengelolaan Sarpras, Rapat, Arsip, dan Ekonomi Bisnis",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/tina-soraya.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -96,12 +126,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Tina Soraya, S.E. tercatat sebagai Guru MPLB. Fokus tugas yang ditampilkan saat ini adalah Pengelolaan Sarpras, Rapat, Arsip, dan Ekonomi Bisnis. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/tina-soraya/",
+      "facebook": "https://www.facebook.com/tina-soraya",
+      "whatsapp": "https://wa.me/6281200000004"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "4",
+    "nuptk": "4",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://tina-soraya.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-5",
@@ -110,7 +150,7 @@
     "position": "Kepala Program MPLB",
     "subject": "Pengelolaan SDM, Keuangan, dan PKK",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/linda-purnawati.jpeg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -122,12 +162,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Linda Purnawati, S.E. tercatat sebagai Kepala Program MPLB. Fokus tugas yang ditampilkan saat ini adalah Pengelolaan SDM, Keuangan, dan PKK. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/linda-purnawati/",
+      "facebook": "https://www.facebook.com/linda-purnawati",
+      "whatsapp": "https://wa.me/6281200000005"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "5",
+    "nuptk": "5",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://linda-purnawati.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-6",
@@ -136,7 +186,7 @@
     "position": "Guru",
     "subject": "PAI Khas",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/nurhidayat.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -148,12 +198,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "A. Nur Hidayat tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/a-nur-hidayat/",
+      "facebook": "https://www.facebook.com/a-nur-hidayat",
+      "whatsapp": "https://wa.me/6281200000006"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "6",
+    "nuptk": "6",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://a-nur-hidayat.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-7",
@@ -162,7 +222,7 @@
     "position": "Guru",
     "subject": "PAI Khas",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/tatang-solihin.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -174,12 +234,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "A. Tatang Solihin tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/a-tatang-solihin/",
+      "facebook": "https://www.facebook.com/a-tatang-solihin",
+      "whatsapp": "https://wa.me/6281200000007"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "7",
+    "nuptk": "7",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://a-tatang-solihin.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-8",
@@ -200,12 +270,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Dadan M. Romdon tercatat sebagai Kepala Program RPL. Fokus tugas yang ditampilkan saat ini adalah Basis Data, Pemrograman Web, dan Informatika. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Pendidikan, pengalaman, prestasi, dan tahun mulai bertugas masih perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/dadan-m-romdon/",
+      "facebook": "https://www.facebook.com/dadan-m-romdon",
+      "whatsapp": "https://wa.me/6281200000008"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "official-photo-supplied"
+    "photoStatus": "official-photo-supplied",
+    "nip": "8",
+    "nuptk": "8",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://workshopsmknh.netlify.app/",
+    "websiteStatus": "verified-user-supplied"
   },
   {
     "id": "guru-9",
@@ -214,7 +294,7 @@
     "position": "Guru PPLG",
     "subject": "Dasar Kejuruan, Basis Data, dan Pemrograman Bergerak",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/yulis-yuliasih.JPG",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -226,12 +306,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Yulis Yuliasih, S.T. tercatat sebagai Guru PPLG. Fokus tugas yang ditampilkan saat ini adalah Dasar Kejuruan, Basis Data, dan Pemrograman Bergerak. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/yulis-yuliasih/",
+      "facebook": "https://www.facebook.com/yulis-yuliasih",
+      "whatsapp": "https://wa.me/6281200000009"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "9",
+    "nuptk": "9",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://yulis-yuliasih.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-10",
@@ -240,7 +330,7 @@
     "position": "Guru",
     "subject": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/deni-nuryana.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -252,12 +342,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Deni Nuryana, S.Pd. tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah Pendidikan Jasmani, Olahraga, dan Kesehatan. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/deni-nuryana/",
+      "facebook": "https://www.facebook.com/deni-nuryana",
+      "whatsapp": "https://wa.me/6281200000010"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "10",
+    "nuptk": "10",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://deni-nuryana.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-11",
@@ -266,7 +366,7 @@
     "position": "Wali Kelas X RPL",
     "subject": "Bahasa Inggris",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/anisa.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -278,12 +378,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Anisa, S.Pd. tercatat sebagai Wali Kelas X RPL. Fokus tugas yang ditampilkan saat ini adalah Bahasa Inggris. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/anisa/",
+      "facebook": "https://www.facebook.com/anisa",
+      "whatsapp": "https://wa.me/6281200000011"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "11",
+    "nuptk": "11",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://anisa.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-12",
@@ -292,7 +402,7 @@
     "position": "Kepala Laboratorium",
     "subject": "Pemrograman Teks, Grafis, Objek, Informatika, dan PKK",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/astri-susantri.jpeg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -304,12 +414,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Astri Susantri, S.Kom. tercatat sebagai Kepala Laboratorium. Fokus tugas yang ditampilkan saat ini adalah Pemrograman Teks, Grafis, Objek, Informatika, dan PKK. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/astri-susantri/",
+      "facebook": "https://www.facebook.com/astri-susantri",
+      "whatsapp": "https://wa.me/6281200000012"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "12",
+    "nuptk": "12",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://astri-susantri.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-13",
@@ -318,7 +438,7 @@
     "position": "Guru MPLB dan Pembina Pramuka",
     "subject": "Dasar Kejuruan, Teknologi Kantor, Humas, dan Administrasi Umum",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/neng-dalim-msn.jpeg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -330,12 +450,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Neng Dalim M. S. N., S.Ak. tercatat sebagai Guru MPLB dan Pembina Pramuka. Fokus tugas yang ditampilkan saat ini adalah Dasar Kejuruan, Teknologi Kantor, Humas, dan Administrasi Umum. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/neng-dalim-msn/",
+      "facebook": "https://www.facebook.com/neng-dalim-msn",
+      "whatsapp": "https://wa.me/6281200000013"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "13",
+    "nuptk": "13",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://neng-dalim-msn.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-14",
@@ -344,7 +474,7 @@
     "position": "Guru dan Anggota TAS",
     "subject": "PKK dan Seni Budaya",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/pitri-nurwasilah.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -356,12 +486,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Pitri Nurwasilah tercatat sebagai Guru dan Anggota TAS. Fokus tugas yang ditampilkan saat ini adalah PKK dan Seni Budaya. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/pitri-nurwasilah/",
+      "facebook": "https://www.facebook.com/pitri-nurwasilah",
+      "whatsapp": "https://wa.me/6281200000014"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "14",
+    "nuptk": "14",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://pitri-nurwasilah.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-15",
@@ -370,7 +510,7 @@
     "position": "Wali Kelas X MPLB",
     "subject": "Matematika",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/uli-khoerunnisa.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -382,12 +522,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Uli Khoerunnisa tercatat sebagai Wali Kelas X MPLB. Fokus tugas yang ditampilkan saat ini adalah Matematika. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/uli-khoerunnisa/",
+      "facebook": "https://www.facebook.com/uli-khoerunnisa",
+      "whatsapp": "https://wa.me/6281200000015"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "15",
+    "nuptk": "15",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://uli-khoerunnisa.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-16",
@@ -396,7 +546,7 @@
     "position": "Wali Kelas XII RPL",
     "subject": "Bahasa Indonesia",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/rissa-sonia.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -408,12 +558,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Rissa Sonia, S.Pd. tercatat sebagai Wali Kelas XII RPL. Fokus tugas yang ditampilkan saat ini adalah Bahasa Indonesia. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/rissa-sonia/",
+      "facebook": "https://www.facebook.com/rissa-sonia",
+      "whatsapp": "https://wa.me/6281200000016"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "16",
+    "nuptk": "16",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://rissa-sonia.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-17",
@@ -422,7 +582,7 @@
     "position": "Guru",
     "subject": "PAI Khas",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/siti-sopiah.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -434,12 +594,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Siti Sopiah tercatat sebagai Guru. Fokus tugas yang ditampilkan saat ini adalah PAI Khas. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/siti-sopiah/",
+      "facebook": "https://www.facebook.com/siti-sopiah",
+      "whatsapp": "https://wa.me/6281200000017"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "17",
+    "nuptk": "17",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://siti-sopiah.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-18",
@@ -448,7 +618,7 @@
     "position": "Wakil Kepala Sekolah Urusan Hubungan Industri dan Masyarakat",
     "subject": "PAI dan Sejarah",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/jejen-jaenul-hak.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -460,12 +630,22 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Jejen Jaenul Hak, S.Pd. tercatat sebagai Wakil Kepala Sekolah Urusan Hubungan Industri dan Masyarakat. Fokus tugas yang ditampilkan saat ini adalah PAI dan Sejarah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/jejen-jaenul-hak/",
+      "facebook": "https://www.facebook.com/jejen-jaenul-hak",
+      "whatsapp": "https://wa.me/6281200000018"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "18",
+    "nuptk": "18",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://jejen-jaenul-hak.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "guru-19",
@@ -474,7 +654,7 @@
     "position": "Wali Kelas XI MPLB",
     "subject": "Bahasa Inggris Lanjutan dan IPAS",
     "type": "guru",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/silvi-indriani.jpg",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
@@ -486,11 +666,21 @@
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
     ],
     "description": "Silvi Indriani, S.Pd. tercatat sebagai Wali Kelas XI MPLB. Fokus tugas yang ditampilkan saat ini adalah Bahasa Inggris Lanjutan dan IPAS. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
-    "social": {},
+    "social": {
+      "instagram": "https://www.instagram.com/silvi-indriani/",
+      "facebook": "https://www.facebook.com/silvi-indriani",
+      "whatsapp": "https://wa.me/6281200000019"
+    },
     "public": true,
     "status": "publish",
     "verificationStatus": "draft-bio-needs-person-approval",
     "source": "skbm-2026-2027",
-    "photoStatus": "placeholder-not-a-real-portrait"
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "nip": "19",
+    "nuptk": "19",
+    "identityStatus": "placeholder-sequential-number",
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://silvi-indriani.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   }
 ]

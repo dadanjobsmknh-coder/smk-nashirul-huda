@@ -5,7 +5,7 @@
     "name": "Yana Rismayana, S.E.",
     "position": "Kepala Tenaga Administrasi Sekolah",
     "type": "staf",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/yana-rismayana.jpg",
     "description": "Yana Rismayana, S.E. tercatat sebagai Kepala Tenaga Administrasi Sekolah. Fokus tugas yang ditampilkan saat ini adalah Kepala Tenaga Administrasi Sekolah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
     "public": true,
     "status": "publish",
@@ -21,7 +21,18 @@
     ],
     "experience": [
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
-    ]
+    ],
+    "nip": "-",
+    "nuptk": "20",
+    "identityStatus": "placeholder-sequential-number",
+    "social": {
+      "instagram": "https://www.instagram.com/yana-rismayana/",
+      "facebook": "https://www.facebook.com/yana-rismayana",
+      "whatsapp": "https://wa.me/6281200000020"
+    },
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://yana-rismayana.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "staf-2",
@@ -29,7 +40,7 @@
     "name": "Yanuar RP. Perdana",
     "position": "Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra",
     "type": "staf",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/yanuar.jpg",
     "description": "Yanuar RP. Perdana tercatat sebagai Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra. Fokus tugas yang ditampilkan saat ini adalah Anggota Tenaga Administrasi Sekolah; Pembina OSIS dan Paskibra. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
     "public": true,
     "status": "publish",
@@ -45,7 +56,18 @@
     ],
     "experience": [
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
-    ]
+    ],
+    "nip": "-",
+    "nuptk": "-",
+    "identityStatus": "placeholder-sequential-number",
+    "social": {
+      "instagram": "https://www.instagram.com/yanuar-rp-perdana/",
+      "facebook": "https://www.facebook.com/yanuar-rp-perdana",
+      "whatsapp": "https://wa.me/6281200000021"
+    },
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://yanuar-rp-perdana.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "staf-3",
@@ -53,7 +75,7 @@
     "name": "Pitri Nurwasilah",
     "position": "Anggota Tenaga Administrasi Sekolah",
     "type": "staf",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/pitri-nurwasilah.jpg",
     "description": "Pitri Nurwasilah tercatat sebagai Anggota Tenaga Administrasi Sekolah. Fokus tugas yang ditampilkan saat ini adalah Anggota Tenaga Administrasi Sekolah. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
     "public": true,
     "status": "publish",
@@ -69,7 +91,18 @@
     ],
     "experience": [
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
-    ]
+    ],
+    "nip": "-",
+    "nuptk": "-",
+    "identityStatus": "placeholder-sequential-number",
+    "social": {
+      "instagram": "https://www.instagram.com/pitri-nurwasilah-tas/",
+      "facebook": "https://www.facebook.com/pitri-nurwasilah-tas",
+      "whatsapp": "https://wa.me/6281200000022"
+    },
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://pitri-nurwasilah-tas.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   },
   {
     "id": "staf-4",
@@ -77,7 +110,7 @@
     "name": "Drs. AA Mansur",
     "position": "Kepala Perpustakaan",
     "type": "staf",
-    "photo": "assets/images/placeholders/principal.svg",
+    "photo": "assets/images/people/aa-mansur.jpg",
     "description": "Drs. AA Mansur tercatat sebagai Kepala Perpustakaan. Fokus tugas yang ditampilkan saat ini adalah Kepala Perpustakaan. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
     "public": true,
     "status": "publish",
@@ -93,6 +126,52 @@
     ],
     "experience": [
       "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
-    ]
+    ],
+    "nip": "-",
+    "nuptk": "-",
+    "identityStatus": "placeholder-sequential-number",
+    "social": {
+      "instagram": "https://www.instagram.com/aa-mansur/",
+      "facebook": "https://www.facebook.com/aa-mansur",
+      "whatsapp": "https://wa.me/6281200000023"
+    },
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://aa-mansur.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
+  },
+  {
+    "id": "staf-5",
+    "slug": "ipal-fikri",
+    "name": "Ipal Fikri",
+    "position": "Staff Tata Usaha",
+    "type": "staf",
+    "photo": "assets/images/people/ipal-fikri.jpg",
+    "description": "Ipal Fikri tercatat sebagai Staff Tata Usaha. Fokus tugas yang ditampilkan saat ini adalah Staff Tata Usaha. Biografi ini merupakan draf editorial berbasis jabatan dan mata pelajaran, bukan riwayat pribadi final. Foto, pendidikan, pengalaman, prestasi, dan tahun mulai bertugas perlu dilengkapi oleh sekolah.",
+    "public": true,
+    "status": "publish",
+    "verificationStatus": "draft-bio-needs-person-approval",
+    "source": "skbm-2026-2027",
+    "photoStatus": "placeholder-not-a-real-portrait",
+    "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
+    "activeSince": "Tahun mulai bertugas akan dilengkapi.",
+    "competencies": [
+      "Pelaksanaan tugas staff tata usaha",
+      "Pelayanan dan komunikasi pendidikan",
+      "Kolaborasi dalam program sekolah"
+    ],
+    "experience": [
+      "Mendukung pembelajaran dan layanan sekolah sesuai pembagian tugas Tahun Pelajaran 2026/2027."
+    ],
+    "nip": "-",
+    "nuptk": "-",
+    "identityStatus": "placeholder-sequential-number",
+    "social": {
+      "instagram": "https://www.instagram.com/ipal-fikri/",
+      "facebook": "https://www.facebook.com/ipal-fikri",
+      "whatsapp": "https://wa.me/6281200000023"
+    },
+    "socialStatus": "placeholder-replace-with-official-links",
+    "website": "https://ipal-fikri.example.com/",
+    "websiteStatus": "placeholder-replace-with-official-url"
   }
 ]

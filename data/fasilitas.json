@@ -13,7 +13,7 @@
     "status": "publish",
     "verificationStatus": "draft-description-stock-photo",
     "source": "brosur-2026-dan-ksp-2026-2027",
-    "imageSource": "https://unsplash.com/s/photos/computer-school",
+    "imageSource": "../assets/images/placeholders/facility.svg",
     "imageStatus": "stock-representative-replace-with-school-photo"
   },
   {

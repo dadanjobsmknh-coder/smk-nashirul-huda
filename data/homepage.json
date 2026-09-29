@@ -5,7 +5,7 @@
       "eyebrow": "Sekolah Vokasi Modern di Bojonggambir",
       "title": "Terampil, berkarakter, dan siap menghadapi dunia kerja.",
       "description": "SMK Nashirul Huda Bojonggambir menghadirkan pendidikan vokasi berbasis teknologi, layanan bisnis, karakter, dan kekeluargaan.",
-      "image": "assets/images/placeholders/hero-school.svg",
+      "image": "assets/images/hero/bg-awal.png",
       "alt": "Placeholder foto lingkungan SMK Nashirul Huda Bojonggambir",
       "primaryCta": {
         "label": "Informasi SPMB",
@@ -21,7 +21,7 @@
       "eyebrow": "Pengembangan Perangkat Lunak dan Gim",
       "title": "Belajar membangun solusi digital yang bermanfaat.",
       "description": "PPLG membekali siswa dengan fondasi pengembangan aplikasi, pemecahan masalah, kerja proyek, dan kewirausahaan digital.",
-      "image": "assets/images/placeholders/hero-pplg.svg",
+      "image": "assets/images/hero/bg-pplg.jpeg",
       "alt": "Ilustrasi placeholder program PPLG",
       "primaryCta": {
         "label": "Jelajahi PPLG",
@@ -37,7 +37,7 @@
       "eyebrow": "Manajemen Perkantoran dan Layanan Bisnis",
       "title": "Profesional dalam administrasi, komunikasi, dan pelayanan.",
       "description": "MPLB mengembangkan keterampilan administrasi modern, komunikasi bisnis, pengelolaan dokumen, dan pelayanan profesional.",
-      "image": "assets/images/placeholders/hero-mplb.svg",
+      "image": "assets/images/hero/bg-mp.png",
       "alt": "Ilustrasi placeholder program MPLB",
       "primaryCta": {
         "label": "Jelajahi MPLB",
@@ -46,6 +46,22 @@
       "secondaryCta": {
         "label": "Hubungi Sekolah",
         "url": "hubungi-kami/"
+      }
+    },
+    {
+      "id": "hero-cakep",
+      "eyebrow": "Tagline SMK Nashirul Huda",
+      "title": "CAKEP",
+      "description": "Cerdas, Aktif, Kreatif. Membentuk peserta didik yang cerdas dalam berpikir, aktif dalam belajar dan berorganisasi, serta kreatif dalam menghasilkan karya.",
+      "image": "assets/images/hero/bg-awal.png",
+      "alt": "Latar hero CAKEP",
+      "primaryCta": {
+        "label": "Jelajahi Sekolah",
+        "url": "profil/"
+      },
+      "secondaryCta": {
+        "label": "Lihat Program Keahlian",
+        "url": "kompetensi-keahlian/"
       }
     }
   ],
@@ -125,7 +141,7 @@
     "photo": "assets/images/people/annisya-astaria.png",
     "alt": "Foto Kepala SMK Nashirul Huda Bojonggambir",
     "message": "Selamat datang di portal SMK Nashirul Huda Bojonggambir. Kami berkomitmen menghadirkan pendidikan vokasi yang mengembangkan kompetensi, karakter, kemandirian, dan kesiapan menghadapi perubahan dunia kerja.",
-    "note": "Teks sambutan sementara. Ganti dengan sambutan resmi kepala sekolah.",
+    "note": "",
     "url": "profil/sambutan-kepala-sekolah.html"
   },
   "spmb": {
@@ -141,6 +157,6 @@
     "address": "Jl. Raya Bojonggambir, Kp. Cipalu Geleber, Desa Bojonggambir, Kecamatan Bojonggambir, Kabupaten Tasikmalaya, Jawa Barat 46475",
     "whatsapp": "0851 7437 8582",
     "instagram": "@smknashirulhudabjg",
-    "email": "[VERIFIKASI EMAIL RESMI]"
+    "email": "smknashirulhudabjg@gmail.com"
   }
 }
