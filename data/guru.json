@@ -254,7 +254,7 @@
   {
     "id": "guru-8",
     "slug": "dadan-m-romdon",
-    "name": "Dadan M. Romdon",
+    "name": "Dadan Muhamad Romdon",
     "position": "Kepala Program RPL",
     "subject": "Basis Data, Pemrograman Web, dan Informatika",
     "type": "guru",
@@ -330,7 +330,7 @@
     "position": "Guru",
     "subject": "Pendidikan Jasmani, Olahraga, dan Kesehatan",
     "type": "guru",
-    "photo": "assets/images/people/deni-nuryana.jpeg",
+    "photo": "assets/images/people/deni-nuryana.png",
     "education": "Data pendidikan akan dilengkapi dari dokumen resmi.",
     "activeSince": "Tahun mulai bertugas akan dilengkapi.",
     "competencies": [
