@@ -7,7 +7,7 @@
     "description": "Pramuka menjadi ruang latihan kemandirian, kerja sama, kepemimpinan, keterampilan lapangan, pertolongan pertama dasar, tali-temali, penjelajahan, dan kepedulian sosial. Program sekolah dapat dikembangkan melalui latihan rutin, perkemahan, bakti sosial, serta latihan dasar kepemimpinan.",
     "coach": "Neng Dalim M. S. N., S.Ak.",
     "schedule": "Sabtu, 2 JP per minggu berdasarkan KSP",
-    "place": "[TEMPAT KEGIATAN BELUM TERSEDIA]",
+    "place": "Lapangan SMK Nashirul Huda",
     "goals": [
       "Melatih kemandirian dan kepemimpinan",
       "Mengembangkan keterampilan kepramukaan",
@@ -37,8 +37,8 @@
     "category": "Pilihan",
     "description": "Paskibra berfokus pada peraturan baris-berbaris, tata upacara, teknik pengibaran bendera, kebugaran, ketepatan gerak, disiplin, tanggung jawab, kerja sama tim, dan kepemimpinan. Anggota dipersiapkan untuk mendukung upacara sekolah dan kegiatan kebangsaan.",
     "coach": "Yanuar RP. Perdana",
-    "schedule": "[JADWAL BELUM TERSEDIA]",
-    "place": "[TEMPAT BELUM TERSEDIA]",
+    "schedule": "Setiap Hari Rabu dan Jumat",
+    "place": "Lapangan SMK Nashirul Huda",
     "goals": [
       "Meningkatkan disiplin",
       "Menguasai dasar baris-berbaris",
@@ -69,8 +69,8 @@
     "category": "Pilihan",
     "description": "Pengembangan kebugaran, sportivitas, kerja tim, dan minat olahraga siswa. Brosur menyebut futsal dan bola voli.",
     "coach": "Ahmad, S.Pd.",
-    "schedule": "[JADWAL BELUM TERSEDIA]",
-    "place": "Lapangan sekolah [PERLU VERIFIKASI]",
+    "schedule": "Setiap Hari Selasa",
+    "place": "Lapangan sekolah",
     "goals": [
       "Menjaga kebugaran",
       "Melatih sportivitas",
@@ -98,9 +98,9 @@
     "name": "English Club",
     "category": "Pilihan",
     "description": "Wadah pengembangan kemampuan komunikasi Bahasa Inggris siswa.",
-    "coach": "[PEMBINA BELUM TERSEDIA]",
-    "schedule": "[JADWAL BELUM TERSEDIA]",
-    "place": "[TEMPAT BELUM TERSEDIA]",
+    "coach": "Guru Bahas inggris",
+    "schedule": "Setiap Hari Kamis",
+    "place": "Ruang English Club",
     "goals": [
       "Meningkatkan kepercayaan diri berkomunikasi",
       "Mengembangkan kosakata dan keterampilan presentasi"
