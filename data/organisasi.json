@@ -54,9 +54,9 @@
       "name": "Ruhilah, S.Pd.I.",
       "position": "Wakil Kepala Sekolah Urusan Kurikulum",
       "group": "Wakil Kepala Sekolah",
-      "education": "[DATA BELUM TERSEDIA]",
+      "education": "Sarjana Pendidikan Agama Islam",
       "period": "Tahun Pelajaran 2026/2027",
-      "photo": "assets/images/placeholders/principal.svg",
+      "photo": "assets/images/people/ruhilah.jpeg",
       "description": "Mendukung pengelolaan kurikulum dan pelaksanaan pembelajaran.",
       "duties": [
         "Mengoordinasikan program kurikulum",
@@ -76,7 +76,7 @@
       "group": "Wakil Kepala Sekolah",
       "education": "Sarjana Pendidikan Pancasila dan Kewarganegaraan",
       "period": "Tahun Pelajaran 2026/2027",
-      "photo": "assets/images/people/atep-m-ikhsan.jpeg",
+      "photo": "assets/images/people/atep-muhamad-ikhsan.jpeg",
       "description": "Mendukung pembinaan kesiswaan, organisasi, dan pengembangan karakter.",
       "duties": [
         "Mengoordinasikan program kesiswaan",
@@ -96,7 +96,7 @@
       "group": "Wakil Kepala Sekolah",
       "education": "Sarjana Pendidikan Agama Islam",
       "period": "Tahun Pelajaran 2026/2027",
-      "photo": "assets/images/people/jejen-jenalhak.jpeg",
+      "photo": "assets/images/people/jejen-jaenul-hak.jpeg",
       "description": "Mendukung hubungan sekolah dengan masyarakat dan dunia kerja.",
       "duties": [
         "Mengoordinasikan hubungan industri",
@@ -111,7 +111,7 @@
       "slug": "dadan-m-romdon-organisasi",
       "parentId": "kepala-sekolah",
       "level": 2,
-      "name": "Dadan M. Romdon",
+      "name": "Dadan Muhamad Romdon",
       "position": "Kepala Program RPL/PPLG",
       "group": "Ketua Program Keahlian",
       "education": "Sarjana Sistem Informasi",
